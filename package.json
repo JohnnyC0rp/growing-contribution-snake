@@ -1,0 +1,17 @@
+{
+  "name": "growing-contribution-snake",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Generate a real GitHub contribution snake that grows as it eats active days.",
+  "type": "module",
+  "scripts": {
+    "check": "node --check src/contribution-visuals.mjs && node --check scripts/generate.mjs && node --check scripts/validate-output.mjs",
+    "generate": "node scripts/generate.mjs",
+    "test": "node --test test/*.test.mjs",
+    "validate": "node scripts/validate-output.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
