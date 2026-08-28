@@ -13,7 +13,8 @@ const DOT_SIZE = 11;
 const PADDING = 8;
 const STEP_DURATION_MS = 45;
 const END_PAUSE_MS = 1_800;
-const BACKBITE_STEPS_PER_CELL = 16;
+const BACKBITE_STEPS_PER_CELL = 32;
+const EXIT_CLEARANCE_STEPS = BASE_SNAKE_LENGTH + 1;
 const CARDINAL_DIRECTIONS = [
   { x: 1, y: 0 },
   { x: -1, y: 0 },
@@ -76,8 +77,59 @@ export function createRouteSeed(username, latestCalendarDate) {
   return hash >>> 0;
 }
 
-export function buildRandomizedRoute(width, height, seed) {
-  let graphRoute = [];
+export function buildRandomizedRoute(
+  width,
+  height,
+  seed,
+  exitSteps = BASE_SNAKE_LENGTH + EXIT_CLEARANCE_STEPS,
+) {
+  let graphRoute = buildHamiltonianBackbone(width, height);
+  const fallbackRoute = graphRoute;
+  const random = createSeededRandom(seed);
+  const shuffleSteps = graphRoute.length * BACKBITE_STEPS_PER_CELL;
+  let bestRoute = selectRouteCandidate(null, graphRoute, width, height);
+
+  for (let step = 0; step < shuffleSteps; step += 1) {
+    graphRoute = applyBackbite(graphRoute, width, height, random);
+    bestRoute = selectRouteCandidate(bestRoute, graphRoute, width, height);
+    bestRoute = selectRouteCandidate(
+      bestRoute,
+      graphRoute.toReversed(),
+      width,
+      height,
+    );
+  }
+
+  graphRoute = bestRoute?.route ?? fallbackRoute;
+  const startDirection = getDirection(graphRoute[0], graphRoute[1]) ?? {
+    x: 1,
+    y: 0,
+  };
+  const endDirection =
+    getDirection(graphRoute.at(-2), graphRoute.at(-1)) ?? startDirection;
+  const entry = Array.from({ length: BASE_SNAKE_LENGTH }, (_, index) => ({
+    x: graphRoute[0].x - startDirection.x * (BASE_SNAKE_LENGTH - index),
+    y: graphRoute[0].y - startDirection.y * (BASE_SNAKE_LENGTH - index),
+  }));
+  const exit = Array.from({ length: exitSteps }, (_, index) => ({
+    x: graphRoute.at(-1).x + endDirection.x * (index + 1),
+    y: graphRoute.at(-1).y + endDirection.y * (index + 1),
+  }));
+
+  return [...entry, ...graphRoute, ...exit];
+}
+
+function buildHamiltonianBackbone(width, height) {
+  if (width % 2 === 1) return buildPairedRowBackbone(width, height);
+
+  if (height % 2 === 1) {
+    return buildPairedRowBackbone(height, width).map(({ x, y }) => ({
+      x: y,
+      y: x,
+    }));
+  }
+
+  const graphRoute = [];
   for (let x = 0; x < width; x += 1) {
     if (x % 2 === 0) {
       for (let y = 0; y < height; y += 1) graphRoute.push({ x, y });
@@ -86,44 +138,163 @@ export function buildRandomizedRoute(width, height, seed) {
     }
   }
 
-  const random = createSeededRandom(seed);
-  const shuffleSteps = graphRoute.length * BACKBITE_STEPS_PER_CELL;
+  return graphRoute;
+}
 
-  for (let step = 0; step < shuffleSteps; step += 1) {
-    const tail = graphRoute.at(-1);
-    const previous = graphRoute.at(-2);
-    const candidates = CARDINAL_DIRECTIONS.map(({ x, y }) => ({
-      x: tail.x + x,
-      y: tail.y + y,
-    })).filter(
-      (point) =>
-        point.x >= 0 &&
-        point.x < width &&
-        point.y >= 0 &&
-        point.y < height &&
-        (point.x !== previous?.x || point.y !== previous?.y),
-    );
+function buildPairedRowBackbone(width, height) {
+  const graphRoute = [];
 
-    if (candidates.length === 0) continue;
+  for (let x = 0; x < width; x += 1) graphRoute.push({ x, y: 0 });
 
-    const bite = candidates[Math.floor(random() * candidates.length)];
-    const biteIndex = graphRoute.findIndex(
-      (point) => point.x === bite.x && point.y === bite.y,
-    );
+  for (let x = width - 1; x >= 0; x -= 1) {
+    const descending = (width - 1 - x) % 2 === 0;
+    if (descending) {
+      for (let y = 1; y < height; y += 1) graphRoute.push({ x, y });
+    } else {
+      for (let y = height - 1; y >= 1; y -= 1) graphRoute.push({ x, y });
+    }
+  }
 
-    graphRoute = [
-      ...graphRoute.slice(0, biteIndex + 1),
-      ...graphRoute.slice(biteIndex + 1).reverse(),
+  return graphRoute;
+}
+
+function applyBackbite(route, width, height, random) {
+  const mutateHead = random() < 0.5;
+  const endpoint = mutateHead ? route[0] : route.at(-1);
+  const existingNeighbor = mutateHead ? route[1] : route.at(-2);
+  const candidates = CARDINAL_DIRECTIONS.map(({ x, y }) => ({
+    x: endpoint.x + x,
+    y: endpoint.y + y,
+  })).filter(
+    (point) =>
+      point.x >= 0 &&
+      point.x < width &&
+      point.y >= 0 &&
+      point.y < height &&
+      (point.x !== existingNeighbor?.x || point.y !== existingNeighbor?.y),
+  );
+
+  if (candidates.length === 0) return route;
+
+  const bite = candidates[Math.floor(random() * candidates.length)];
+  const biteIndex = route.findIndex(
+    (point) => point.x === bite.x && point.y === bite.y,
+  );
+
+  if (mutateHead) {
+    return [
+      ...route.slice(0, biteIndex).reverse(),
+      ...route.slice(biteIndex),
     ];
   }
 
-  // Keep the first endpoint anchored so even a randomized snake gets a tidy doorway.
-  const entry = Array.from({ length: BASE_SNAKE_LENGTH }, (_, index) => ({
-    x: index - BASE_SNAKE_LENGTH,
-    y: graphRoute[0].y,
-  }));
+  return [
+    ...route.slice(0, biteIndex + 1),
+    ...route.slice(biteIndex + 1).reverse(),
+  ];
+}
 
-  return [...entry, ...graphRoute];
+function selectRouteCandidate(best, route, width, height) {
+  if (!hasOutwardTangents(route, width, height)) return best;
+
+  const opening = measureOpening(route);
+  if (
+    route.length >= 30 &&
+    (opening.turns < 8 ||
+      opening.turns > 18 ||
+      opening.firstTurn > 5 ||
+      opening.maxStraightRun > 5)
+  ) {
+    return best;
+  }
+
+  const candidate = {
+    route,
+    score: [
+      Math.abs(opening.turns - 12),
+      opening.maxStraightRun,
+      -manhattanDistance(route[0], route.at(-1)),
+    ],
+  };
+
+  if (!best || compareScores(candidate.score, best.score) < 0) {
+    return candidate;
+  }
+
+  return best;
+}
+
+function hasOutwardTangents(route, width, height) {
+  if (route.length === 1) return true;
+
+  const startDirection = getDirection(route[0], route[1]);
+  const endDirection = getDirection(route.at(-2), route.at(-1));
+  const beforeStart = {
+    x: route[0].x - startDirection.x,
+    y: route[0].y - startDirection.y,
+  };
+  const afterEnd = {
+    x: route.at(-1).x + endDirection.x,
+    y: route.at(-1).y + endDirection.y,
+  };
+
+  return (
+    isOutside(beforeStart, width, height) &&
+    isOutside(afterEnd, width, height)
+  );
+}
+
+function measureOpening(route) {
+  const opening = route.slice(0, 30);
+  if (opening.length < 2) {
+    return { turns: 0, firstTurn: Number.POSITIVE_INFINITY, maxStraightRun: 0 };
+  }
+
+  let previousDirection = getDirection(opening[0], opening[1]);
+  let straightRun = 1;
+  let maxStraightRun = 1;
+  let turns = 0;
+  let firstTurn = Number.POSITIVE_INFINITY;
+
+  for (let index = 2; index < opening.length; index += 1) {
+    const direction = getDirection(opening[index - 1], opening[index]);
+    if (
+      direction.x === previousDirection.x &&
+      direction.y === previousDirection.y
+    ) {
+      straightRun += 1;
+      maxStraightRun = Math.max(maxStraightRun, straightRun);
+      continue;
+    }
+
+    turns += 1;
+    firstTurn = Math.min(firstTurn, index);
+    straightRun = 1;
+    previousDirection = direction;
+  }
+
+  return { turns, firstTurn, maxStraightRun };
+}
+
+function compareScores(left, right) {
+  for (let index = 0; index < left.length; index += 1) {
+    if (left[index] !== right[index]) return left[index] - right[index];
+  }
+
+  return 0;
+}
+
+function getDirection(from, to) {
+  if (!from || !to) return null;
+  return { x: to.x - from.x, y: to.y - from.y };
+}
+
+function manhattanDistance(first, second) {
+  return Math.abs(first.x - second.x) + Math.abs(first.y - second.y);
+}
+
+function isOutside(point, width, height) {
+  return point.x < 0 || point.x >= width || point.y < 0 || point.y >= height;
 }
 
 export function buildSnakeFrames(grid, route) {
@@ -164,10 +335,12 @@ export function renderContributionSnake(grid, username) {
     (latest, cell) => (cell.date && cell.date > latest ? cell.date : latest),
     "",
   );
+  const activeDayCount = grid.cells.filter((cell) => cell.count > 0).length;
   const route = buildRandomizedRoute(
     grid.width,
     grid.height,
     createRouteSeed(username, latestCalendarDate),
+    BASE_SNAKE_LENGTH + activeDayCount + EXIT_CLEARANCE_STEPS,
   );
   const frames = buildSnakeFrames(grid, route);
   const routeIndexes = new Map(
