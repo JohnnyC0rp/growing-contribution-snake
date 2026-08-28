@@ -1,4 +1,4 @@
-name: Generate profile visuals
+name: Generate contribution snake
 
 on:
   schedule:
@@ -23,7 +23,7 @@ concurrency:
 
 jobs:
   generate:
-    name: Generate and publish SVGs
+    name: Generate and publish snake SVG
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
@@ -39,7 +39,7 @@ jobs:
       - name: Check and test
         run: npm run check && npm test
 
-      - name: Generate and validate SVGs
+      - name: Generate and validate snake SVG
         env:
           GITHUB_TOKEN: ${{ github.token }}
           PROFILE_USERNAME: ${{ vars.PROFILE_USERNAME || github.repository_owner }}
@@ -53,7 +53,6 @@ jobs:
           publish_dir="${RUNNER_TEMP}/growing-contribution-snake"
           mkdir -p "${publish_dir}"
           cp dist/github-contribution-grid-snake.svg "${publish_dir}/"
-          cp dist/github-activity-graph.svg "${publish_dir}/"
 
           if git ls-remote --exit-code --heads origin output >/dev/null 2>&1; then
             git fetch --depth=1 origin +refs/heads/output:refs/remotes/origin/output
@@ -64,15 +63,14 @@ jobs:
           fi
 
           cp "${publish_dir}/github-contribution-grid-snake.svg" .
-          cp "${publish_dir}/github-activity-graph.svg" .
-          git add github-contribution-grid-snake.svg github-activity-graph.svg
+          git add github-contribution-grid-snake.svg
 
           if git diff --cached --quiet; then
-            echo "Contribution visuals are already current."
+            echo "The contribution snake is already current."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Update contribution visuals"
+          git commit -m "Update contribution snake"
           git push origin HEAD:output

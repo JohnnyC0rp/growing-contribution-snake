@@ -3,10 +3,10 @@ import test from "node:test";
 
 import {
   BASE_SNAKE_LENGTH,
-  buildSerpentineRoute,
+  buildRandomizedRoute,
   buildSnakeFrames,
+  createRouteSeed,
   normalizeContributionCalendar,
-  renderActivityGraph,
   renderContributionSnake,
 } from "../src/contribution-visuals.mjs";
 
@@ -36,13 +36,23 @@ test("normalizes GitHub weeks into a complete seven-row grid", () => {
   assert.equal(grid.cells[6].count, 0);
 });
 
-test("builds one continuous route that visits every graph cell exactly once", () => {
-  const width = 4;
-  const height = 3;
-  const route = buildSerpentineRoute(width, height);
+test("builds a clean-entry Hamiltonian route over the full GitHub grid", () => {
+  const width = 53;
+  const height = 7;
+  const route = buildRandomizedRoute(
+    width,
+    height,
+    createRouteSeed("JohnnyC0rp", "2026-08-28"),
+  );
   const graphRoute = route.slice(BASE_SNAKE_LENGTH);
   const uniqueCells = new Set(graphRoute.map(({ x, y }) => `${x}:${y}`));
 
+  assert.deepEqual(route.slice(0, BASE_SNAKE_LENGTH), [
+    { x: -3, y: 0 },
+    { x: -2, y: 0 },
+    { x: -1, y: 0 },
+  ]);
+  assert.deepEqual(graphRoute[0], { x: 0, y: 0 });
   assert.equal(graphRoute.length, width * height);
   assert.equal(uniqueCells.size, width * height);
 
@@ -53,6 +63,17 @@ test("builds one continuous route that visits every graph cell exactly once", ()
       Math.abs(previous.x - current.x) + Math.abs(previous.y - current.y);
     assert.equal(distance, 1);
   }
+});
+
+test("reproduces a route for the same seed and diverges for another seed", () => {
+  const firstSeed = createRouteSeed("JohnnyC0rp", "2026-08-28");
+  const secondSeed = createRouteSeed("JohnnyC0rp", "2026-08-29");
+  const firstRoute = buildRandomizedRoute(53, 7, firstSeed);
+
+  assert.equal(firstSeed, createRouteSeed("JohnnyC0rp", "2026-08-28"));
+  assert.notEqual(firstSeed, secondSeed);
+  assert.deepEqual(firstRoute, buildRandomizedRoute(53, 7, firstSeed));
+  assert.notDeepEqual(firstRoute, buildRandomizedRoute(53, 7, secondSeed));
 });
 
 test("grows by exactly one segment for every eaten active day", () => {
@@ -68,7 +89,11 @@ test("grows by exactly one segment for every eaten active day", () => {
   };
   const frames = buildSnakeFrames(
     grid,
-    buildSerpentineRoute(grid.width, grid.height),
+    buildRandomizedRoute(
+      grid.width,
+      grid.height,
+      createRouteSeed("test", "2026-08-28"),
+    ),
   );
 
   assert.equal(frames[0].snakeLength, BASE_SNAKE_LENGTH);
@@ -97,36 +122,4 @@ test("renders a looping accessible SVG without embedding credentials", () => {
   assert.match(svg, /repeatCount="indefinite"/);
   assert.match(svg, /grows by one segment for every active day/);
   assert.doesNotMatch(svg, /Bearer|GITHUB_TOKEN|gho_/);
-});
-
-test("renders the latest 30 contribution days as a self-contained activity graph", () => {
-  const cells = Array.from({ length: 35 }, (_, index) => ({
-    x: Math.floor(index / 7),
-    y: index % 7,
-    date: new Date(Date.UTC(2026, 6, 25 + index)).toISOString().slice(0, 10),
-    count: index === 34 ? 7 : 0,
-    level: index === 34 ? 4 : 0,
-  }));
-  const svg = renderActivityGraph({ width: 5, height: 7, cells }, "JohnnyC0rp");
-
-  assert.match(svg, /JohnnyC0rp's Contribution Graph/);
-  assert.match(svg, /2026-08-28: 7 contributions/);
-  assert.doesNotMatch(svg, /2026-07-25: 0 contributions/);
-  assert.doesNotMatch(svg, /Bearer|GITHUB_TOKEN|gho_/);
-});
-
-test("makes a real zero-activity period explicit instead of looking broken", () => {
-  const grid = {
-    width: 1,
-    height: 2,
-    cells: [
-      { x: 0, y: 0, date: "2026-08-27", count: 0, level: 0 },
-      { x: 0, y: 1, date: "2026-08-28", count: 0, level: 0 },
-    ],
-  };
-
-  assert.match(
-    renderActivityGraph(grid, "JohnnyC0rp", 2),
-    /No contributions in the last 2 days/,
-  );
 });

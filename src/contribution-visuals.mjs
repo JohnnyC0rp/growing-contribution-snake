@@ -13,6 +13,13 @@ const DOT_SIZE = 11;
 const PADDING = 8;
 const STEP_DURATION_MS = 45;
 const END_PAUSE_MS = 1_800;
+const BACKBITE_STEPS_PER_CELL = 16;
+const CARDINAL_DIRECTIONS = [
+  { x: 1, y: 0 },
+  { x: -1, y: 0 },
+  { x: 0, y: 1 },
+  { x: 0, y: -1 },
+];
 
 export function normalizeContributionCalendar(weeks) {
   if (!Array.isArray(weeks) || weeks.length === 0) {
@@ -57,21 +64,66 @@ export function normalizeContributionCalendar(weeks) {
   return { width, height, cells };
 }
 
-export function buildSerpentineRoute(width, height) {
-  const route = Array.from({ length: BASE_SNAKE_LENGTH }, (_, index) => ({
-    x: index - BASE_SNAKE_LENGTH,
-    y: 0,
-  }));
+export function createRouteSeed(username, latestCalendarDate) {
+  let hash = 2_166_136_261;
+  const input = `${username}:${latestCalendarDate}`;
 
+  for (let index = 0; index < input.length; index += 1) {
+    hash ^= input.charCodeAt(index);
+    hash = Math.imul(hash, 16_777_619);
+  }
+
+  return hash >>> 0;
+}
+
+export function buildRandomizedRoute(width, height, seed) {
+  let graphRoute = [];
   for (let x = 0; x < width; x += 1) {
     if (x % 2 === 0) {
-      for (let y = 0; y < height; y += 1) route.push({ x, y });
+      for (let y = 0; y < height; y += 1) graphRoute.push({ x, y });
     } else {
-      for (let y = height - 1; y >= 0; y -= 1) route.push({ x, y });
+      for (let y = height - 1; y >= 0; y -= 1) graphRoute.push({ x, y });
     }
   }
 
-  return route;
+  const random = createSeededRandom(seed);
+  const shuffleSteps = graphRoute.length * BACKBITE_STEPS_PER_CELL;
+
+  for (let step = 0; step < shuffleSteps; step += 1) {
+    const tail = graphRoute.at(-1);
+    const previous = graphRoute.at(-2);
+    const candidates = CARDINAL_DIRECTIONS.map(({ x, y }) => ({
+      x: tail.x + x,
+      y: tail.y + y,
+    })).filter(
+      (point) =>
+        point.x >= 0 &&
+        point.x < width &&
+        point.y >= 0 &&
+        point.y < height &&
+        (point.x !== previous?.x || point.y !== previous?.y),
+    );
+
+    if (candidates.length === 0) continue;
+
+    const bite = candidates[Math.floor(random() * candidates.length)];
+    const biteIndex = graphRoute.findIndex(
+      (point) => point.x === bite.x && point.y === bite.y,
+    );
+
+    graphRoute = [
+      ...graphRoute.slice(0, biteIndex + 1),
+      ...graphRoute.slice(biteIndex + 1).reverse(),
+    ];
+  }
+
+  // Keep the first endpoint anchored so even a randomized snake gets a tidy doorway.
+  const entry = Array.from({ length: BASE_SNAKE_LENGTH }, (_, index) => ({
+    x: index - BASE_SNAKE_LENGTH,
+    y: graphRoute[0].y,
+  }));
+
+  return [...entry, ...graphRoute];
 }
 
 export function buildSnakeFrames(grid, route) {
@@ -108,7 +160,15 @@ export function buildSnakeFrames(grid, route) {
 }
 
 export function renderContributionSnake(grid, username) {
-  const route = buildSerpentineRoute(grid.width, grid.height);
+  const latestCalendarDate = grid.cells.reduce(
+    (latest, cell) => (cell.date && cell.date > latest ? cell.date : latest),
+    "",
+  );
+  const route = buildRandomizedRoute(
+    grid.width,
+    grid.height,
+    createRouteSeed(username, latestCalendarDate),
+  );
   const frames = buildSnakeFrames(grid, route);
   const routeIndexes = new Map(
     route.map((point, index) => [`${point.x}:${point.y}`, index]),
@@ -211,126 +271,6 @@ ${cells}
 `;
 }
 
-export function renderActivityGraph(grid, username, days = 30) {
-  const contributions = grid.cells
-    .filter((cell) => cell.date)
-    .sort((a, b) => a.date.localeCompare(b.date))
-    .slice(-days);
-
-  if (contributions.length === 0) {
-    throw new Error("The contribution calendar has no dated cells");
-  }
-
-  const width = 856;
-  const height = 260;
-  const margin = { top: 58, right: 22, bottom: 42, left: 58 };
-  const chartWidth = width - margin.left - margin.right;
-  const chartHeight = height - margin.top - margin.bottom;
-  const maxCount = Math.max(...contributions.map((cell) => cell.count));
-  const yMax = niceUpperBound(maxCount);
-  const baseline = margin.top + chartHeight;
-  const xFor = (index) =>
-    margin.left +
-    (contributions.length === 1
-      ? chartWidth / 2
-      : (index / (contributions.length - 1)) * chartWidth);
-  const yFor = (count) => baseline - (count / yMax) * chartHeight;
-  const points = contributions.map((cell, index) => ({
-    ...cell,
-    svgX: xFor(index),
-    svgY: yFor(cell.count),
-  }));
-  const linePath = points
-    .map((point, index) =>
-      `${index === 0 ? "M" : "L"}${formatNumber(point.svgX)} ${formatNumber(point.svgY)}`,
-    )
-    .join(" ");
-  const areaPath = [
-    `M${formatNumber(points[0].svgX)} ${baseline}`,
-    ...points.map(
-      (point) => `L${formatNumber(point.svgX)} ${formatNumber(point.svgY)}`,
-    ),
-    `L${formatNumber(points.at(-1).svgX)} ${baseline}`,
-    "Z",
-  ].join(" ");
-
-  const yTicks = Array.from({ length: 5 }, (_, index) => {
-    const value = (yMax * index) / 4;
-    return {
-      value,
-      y: yFor(value),
-      label: Number.isInteger(value) ? value.toString() : value.toFixed(1),
-    };
-  });
-  const xTickIndexes = Array.from(
-    new Set([
-      0,
-      ...Array.from(
-        { length: Math.floor((contributions.length - 1) / 5) },
-        (_, index) => (index + 1) * 5,
-      ),
-      contributions.length - 1,
-    ]),
-  );
-  const firstDate = formatShortDate(contributions[0].date);
-  const lastDate = formatShortDate(contributions.at(-1).date);
-
-  const yLabels = yTicks
-    .map(
-      (tick) =>
-        `    <text class="axis-label" x="${margin.left - 10}" y="${formatNumber(tick.y + 4)}" text-anchor="end">${tick.label}</text>`,
-    )
-    .join("\n");
-  const xLabels = xTickIndexes
-    .map((index) => {
-      const point = points[index];
-      return `    <text class="axis-label" x="${formatNumber(point.svgX)}" y="${height - 17}" text-anchor="middle">${escapeXml(formatShortDate(point.date))}</text>`;
-    })
-    .join("\n");
-  const pointElements = points
-    .map(
-      (point) =>
-        `    <circle class="point" cx="${formatNumber(point.svgX)}" cy="${formatNumber(point.svgY)}" r="3"><title>${escapeXml(point.date)}: ${point.count} contribution${point.count === 1 ? "" : "s"}</title></circle>`,
-    )
-    .join("\n");
-  const emptyState =
-    maxCount === 0
-      ? `\n    <text class="empty-state" x="${margin.left + chartWidth / 2}" y="${margin.top + chartHeight / 2}" text-anchor="middle">No contributions in the last ${contributions.length} days</text>`
-      : "";
-
-  return `<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${width} ${height}" role="img" aria-labelledby="activity-title activity-description">
-  <title id="activity-title">${escapeXml(username)}'s contribution graph</title>
-  <desc id="activity-description">Daily GitHub contributions from ${escapeXml(firstDate)} to ${escapeXml(lastDate)}.</desc>
-  <style>
-    :root { --text: #0000ff; --muted: #57606a; --axis: #d0d7de; --line: #0000ff; --point: #0000ff; --area: #add8e6; }
-    @media (prefers-color-scheme: dark) { :root { --text: #58a6ff; --muted: #8b949e; --axis: #30363d; --line: #58a6ff; --point: #58a6ff; --area: #388bfd; } }
-    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-    .title { fill: var(--text); font-size: 19px; font-weight: 600; }
-    .subtitle, .axis-label, .empty-state { fill: var(--muted); font-size: 11px; }
-    .axis { stroke: var(--axis); stroke-width: 1; }
-    .area { fill: var(--area); fill-opacity: 0.5; }
-    .line { fill: none; stroke: var(--line); stroke-linecap: round; stroke-linejoin: round; stroke-width: 3; }
-    .point { fill: var(--point); stroke: var(--point); }
-    .empty-state { font-size: 14px; }
-  </style>
-  <text class="title" x="${width / 2}" y="27" text-anchor="middle">${escapeXml(username)}'s Contribution Graph</text>
-  <text class="subtitle" x="${width / 2}" y="45" text-anchor="middle">Last ${contributions.length} days · updated by GitHub Actions</text>
-  <g id="axes">
-    <line class="axis" x1="${margin.left}" y1="${margin.top}" x2="${margin.left}" y2="${baseline}"/>
-    <line class="axis" x1="${margin.left}" y1="${baseline}" x2="${width - margin.right}" y2="${baseline}"/>
-${yLabels}
-${xLabels}
-  </g>
-  <g id="activity">
-    <path class="area" d="${areaPath}"/>
-    <path class="line" d="${linePath}"/>
-${pointElements}${emptyState}
-  </g>
-</svg>
-`;
-}
-
 export async function fetchContributionCalendar(username, githubToken) {
   if (!githubToken) {
     throw new Error("GITHUB_TOKEN is required to read GitHub contributions");
@@ -385,20 +325,16 @@ function formatNumber(value) {
   return Number(value.toFixed(6)).toString();
 }
 
-function niceUpperBound(value) {
-  if (value <= 1) return 1;
-  const magnitude = 10 ** Math.floor(Math.log10(value));
-  const normalized = value / magnitude;
-  const nice = normalized <= 2 ? 2 : normalized <= 5 ? 5 : 10;
-  return nice * magnitude;
-}
+function createSeededRandom(seed) {
+  let state = seed >>> 0;
 
-function formatShortDate(value) {
-  return new Date(`${value}T00:00:00Z`).toLocaleDateString("en-US", {
-    day: "numeric",
-    month: "short",
-    timeZone: "UTC",
-  });
+  return () => {
+    state = (state + 0x6d2b79f5) | 0;
+    let value = state;
+    value = Math.imul(value ^ (value >>> 15), value | 1);
+    value ^= value + Math.imul(value ^ (value >>> 7), value | 61);
+    return ((value ^ (value >>> 14)) >>> 0) / 4_294_967_296;
+  };
 }
 
 function escapeXml(value) {
