@@ -9,518 +9,512 @@
     .level-1 { fill: var(--l1); } .level-2 { fill: var(--l2); } .level-3 { fill: var(--l3); } .level-4 { fill: var(--l4); }
   </style>
   <g id="contributions">
-    <rect class="cell level-0" x="55" y="10" width="11" height="11" rx="2"><title>2025-08-24: 0 contributions</title></rect>
-    <rect class="cell level-0" x="55" y="25" width="11" height="11" rx="2"><title>2025-08-25: 0 contributions</title></rect>
-    <rect class="cell level-0" x="55" y="40" width="11" height="11" rx="2"><title>2025-08-26: 0 contributions</title></rect>
-    <rect class="cell level-0" x="55" y="55" width="11" height="11" rx="2"><title>2025-08-27: 0 contributions</title></rect>
-    <rect class="cell level-1" x="55" y="70" width="11" height="11" rx="2">
-      <title>2025-08-28: 1 contribution</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.80303;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-1" x="55" y="85" width="11" height="11" rx="2">
-      <title>2025-08-29: 1 contribution</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.796537;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-0" x="55" y="100" width="11" height="11" rx="2"><title>2025-08-30: 0 contributions</title></rect>
-    <rect class="cell level-0" x="70" y="10" width="11" height="11" rx="2"><title>2025-08-31: 0 contributions</title></rect>
-    <rect class="cell level-0" x="70" y="25" width="11" height="11" rx="2"><title>2025-09-01: 0 contributions</title></rect>
-    <rect class="cell level-0" x="70" y="40" width="11" height="11" rx="2"><title>2025-09-02: 0 contributions</title></rect>
-    <rect class="cell level-0" x="70" y="55" width="11" height="11" rx="2"><title>2025-09-03: 0 contributions</title></rect>
-    <rect class="cell level-0" x="70" y="70" width="11" height="11" rx="2"><title>2025-09-04: 0 contributions</title></rect>
-    <rect class="cell level-0" x="70" y="85" width="11" height="11" rx="2"><title>2025-09-05: 0 contributions</title></rect>
-    <rect class="cell level-0" x="70" y="100" width="11" height="11" rx="2"><title>2025-09-06: 0 contributions</title></rect>
-    <rect class="cell level-0" x="85" y="10" width="11" height="11" rx="2"><title>2025-09-07: 0 contributions</title></rect>
-    <rect class="cell level-1" x="85" y="25" width="11" height="11" rx="2">
+    <rect class="cell level-0" x="55" y="10" width="11" height="11" rx="2"><title>2025-08-31: 0 contributions</title></rect>
+    <rect class="cell level-0" x="55" y="25" width="11" height="11" rx="2"><title>2025-09-01: 0 contributions</title></rect>
+    <rect class="cell level-0" x="55" y="40" width="11" height="11" rx="2"><title>2025-09-02: 0 contributions</title></rect>
+    <rect class="cell level-0" x="55" y="55" width="11" height="11" rx="2"><title>2025-09-03: 0 contributions</title></rect>
+    <rect class="cell level-0" x="55" y="70" width="11" height="11" rx="2"><title>2025-09-04: 0 contributions</title></rect>
+    <rect class="cell level-0" x="55" y="85" width="11" height="11" rx="2"><title>2025-09-05: 0 contributions</title></rect>
+    <rect class="cell level-0" x="55" y="100" width="11" height="11" rx="2"><title>2025-09-06: 0 contributions</title></rect>
+    <rect class="cell level-0" x="70" y="10" width="11" height="11" rx="2"><title>2025-09-07: 0 contributions</title></rect>
+    <rect class="cell level-1" x="70" y="25" width="11" height="11" rx="2">
       <title>2025-09-08: 2 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.666667;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.741304;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="85" y="40" width="11" height="11" rx="2"><title>2025-09-09: 0 contributions</title></rect>
-    <rect class="cell level-0" x="85" y="55" width="11" height="11" rx="2"><title>2025-09-10: 0 contributions</title></rect>
-    <rect class="cell level-1" x="85" y="70" width="11" height="11" rx="2">
+    <rect class="cell level-0" x="70" y="40" width="11" height="11" rx="2"><title>2025-09-09: 0 contributions</title></rect>
+    <rect class="cell level-0" x="70" y="55" width="11" height="11" rx="2"><title>2025-09-10: 0 contributions</title></rect>
+    <rect class="cell level-1" x="70" y="70" width="11" height="11" rx="2">
       <title>2025-09-11: 1 contribution</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.686147;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.756522;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="85" y="85" width="11" height="11" rx="2"><title>2025-09-12: 0 contributions</title></rect>
-    <rect class="cell level-0" x="85" y="100" width="11" height="11" rx="2"><title>2025-09-13: 0 contributions</title></rect>
-    <rect class="cell level-0" x="100" y="10" width="11" height="11" rx="2"><title>2025-09-14: 0 contributions</title></rect>
-    <rect class="cell level-0" x="100" y="25" width="11" height="11" rx="2"><title>2025-09-15: 0 contributions</title></rect>
-    <rect class="cell level-1" x="100" y="40" width="11" height="11" rx="2">
+    <rect class="cell level-0" x="70" y="85" width="11" height="11" rx="2"><title>2025-09-12: 0 contributions</title></rect>
+    <rect class="cell level-0" x="70" y="100" width="11" height="11" rx="2"><title>2025-09-13: 0 contributions</title></rect>
+    <rect class="cell level-0" x="85" y="10" width="11" height="11" rx="2"><title>2025-09-14: 0 contributions</title></rect>
+    <rect class="cell level-0" x="85" y="25" width="11" height="11" rx="2"><title>2025-09-15: 0 contributions</title></rect>
+    <rect class="cell level-1" x="85" y="40" width="11" height="11" rx="2">
       <title>2025-09-16: 1 contribution</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.670996;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.736957;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="100" y="55" width="11" height="11" rx="2">
+    <rect class="cell level-1" x="85" y="55" width="11" height="11" rx="2">
       <title>2025-09-17: 1 contribution</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.699134;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.721739;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="100" y="70" width="11" height="11" rx="2"><title>2025-09-18: 0 contributions</title></rect>
-    <rect class="cell level-0" x="100" y="85" width="11" height="11" rx="2"><title>2025-09-19: 0 contributions</title></rect>
-    <rect class="cell level-0" x="100" y="100" width="11" height="11" rx="2"><title>2025-09-20: 0 contributions</title></rect>
-    <rect class="cell level-0" x="115" y="10" width="11" height="11" rx="2"><title>2025-09-21: 0 contributions</title></rect>
-    <rect class="cell level-0" x="115" y="25" width="11" height="11" rx="2"><title>2025-09-22: 0 contributions</title></rect>
-    <rect class="cell level-0" x="115" y="40" width="11" height="11" rx="2"><title>2025-09-23: 0 contributions</title></rect>
-    <rect class="cell level-1" x="115" y="55" width="11" height="11" rx="2">
+    <rect class="cell level-0" x="85" y="70" width="11" height="11" rx="2"><title>2025-09-18: 0 contributions</title></rect>
+    <rect class="cell level-0" x="85" y="85" width="11" height="11" rx="2"><title>2025-09-19: 0 contributions</title></rect>
+    <rect class="cell level-0" x="85" y="100" width="11" height="11" rx="2"><title>2025-09-20: 0 contributions</title></rect>
+    <rect class="cell level-0" x="100" y="10" width="11" height="11" rx="2"><title>2025-09-21: 0 contributions</title></rect>
+    <rect class="cell level-0" x="100" y="25" width="11" height="11" rx="2"><title>2025-09-22: 0 contributions</title></rect>
+    <rect class="cell level-0" x="100" y="40" width="11" height="11" rx="2"><title>2025-09-23: 0 contributions</title></rect>
+    <rect class="cell level-1" x="100" y="55" width="11" height="11" rx="2">
       <title>2025-09-24: 2 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.701299;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.723913;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="115" y="70" width="11" height="11" rx="2"><title>2025-09-25: 0 contributions</title></rect>
-    <rect class="cell level-1" x="115" y="85" width="11" height="11" rx="2">
+    <rect class="cell level-0" x="100" y="70" width="11" height="11" rx="2"><title>2025-09-25: 0 contributions</title></rect>
+    <rect class="cell level-1" x="100" y="85" width="11" height="11" rx="2">
       <title>2025-09-26: 1 contribution</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.692641;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.776087;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="115" y="100" width="11" height="11" rx="2"><title>2025-09-27: 0 contributions</title></rect>
-    <rect class="cell level-0" x="130" y="10" width="11" height="11" rx="2"><title>2025-09-28: 0 contributions</title></rect>
-    <rect class="cell level-0" x="130" y="25" width="11" height="11" rx="2"><title>2025-09-29: 0 contributions</title></rect>
-    <rect class="cell level-0" x="130" y="40" width="11" height="11" rx="2"><title>2025-09-30: 0 contributions</title></rect>
-    <rect class="cell level-0" x="130" y="55" width="11" height="11" rx="2"><title>2025-10-01: 0 contributions</title></rect>
-    <rect class="cell level-0" x="130" y="70" width="11" height="11" rx="2"><title>2025-10-02: 0 contributions</title></rect>
-    <rect class="cell level-0" x="130" y="85" width="11" height="11" rx="2"><title>2025-10-03: 0 contributions</title></rect>
-    <rect class="cell level-0" x="130" y="100" width="11" height="11" rx="2"><title>2025-10-04: 0 contributions</title></rect>
-    <rect class="cell level-0" x="145" y="10" width="11" height="11" rx="2"><title>2025-10-05: 0 contributions</title></rect>
-    <rect class="cell level-1" x="145" y="25" width="11" height="11" rx="2">
+    <rect class="cell level-0" x="100" y="100" width="11" height="11" rx="2"><title>2025-09-27: 0 contributions</title></rect>
+    <rect class="cell level-0" x="115" y="10" width="11" height="11" rx="2"><title>2025-09-28: 0 contributions</title></rect>
+    <rect class="cell level-0" x="115" y="25" width="11" height="11" rx="2"><title>2025-09-29: 0 contributions</title></rect>
+    <rect class="cell level-0" x="115" y="40" width="11" height="11" rx="2"><title>2025-09-30: 0 contributions</title></rect>
+    <rect class="cell level-0" x="115" y="55" width="11" height="11" rx="2"><title>2025-10-01: 0 contributions</title></rect>
+    <rect class="cell level-0" x="115" y="70" width="11" height="11" rx="2"><title>2025-10-02: 0 contributions</title></rect>
+    <rect class="cell level-0" x="115" y="85" width="11" height="11" rx="2"><title>2025-10-03: 0 contributions</title></rect>
+    <rect class="cell level-0" x="115" y="100" width="11" height="11" rx="2"><title>2025-10-04: 0 contributions</title></rect>
+    <rect class="cell level-0" x="130" y="10" width="11" height="11" rx="2"><title>2025-10-05: 0 contributions</title></rect>
+    <rect class="cell level-1" x="130" y="25" width="11" height="11" rx="2">
       <title>2025-10-06: 2 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.727273;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.663043;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="145" y="40" width="11" height="11" rx="2"><title>2025-10-07: 0 contributions</title></rect>
-    <rect class="cell level-0" x="145" y="55" width="11" height="11" rx="2"><title>2025-10-08: 0 contributions</title></rect>
-    <rect class="cell level-0" x="145" y="70" width="11" height="11" rx="2"><title>2025-10-09: 0 contributions</title></rect>
-    <rect class="cell level-0" x="145" y="85" width="11" height="11" rx="2"><title>2025-10-10: 0 contributions</title></rect>
-    <rect class="cell level-0" x="145" y="100" width="11" height="11" rx="2"><title>2025-10-11: 0 contributions</title></rect>
-    <rect class="cell level-0" x="160" y="10" width="11" height="11" rx="2"><title>2025-10-12: 0 contributions</title></rect>
-    <rect class="cell level-0" x="160" y="25" width="11" height="11" rx="2"><title>2025-10-13: 0 contributions</title></rect>
-    <rect class="cell level-0" x="160" y="40" width="11" height="11" rx="2"><title>2025-10-14: 0 contributions</title></rect>
-    <rect class="cell level-0" x="160" y="55" width="11" height="11" rx="2"><title>2025-10-15: 0 contributions</title></rect>
-    <rect class="cell level-0" x="160" y="70" width="11" height="11" rx="2"><title>2025-10-16: 0 contributions</title></rect>
-    <rect class="cell level-0" x="160" y="85" width="11" height="11" rx="2"><title>2025-10-17: 0 contributions</title></rect>
-    <rect class="cell level-0" x="160" y="100" width="11" height="11" rx="2"><title>2025-10-18: 0 contributions</title></rect>
-    <rect class="cell level-0" x="175" y="10" width="11" height="11" rx="2"><title>2025-10-19: 0 contributions</title></rect>
-    <rect class="cell level-0" x="175" y="25" width="11" height="11" rx="2"><title>2025-10-20: 0 contributions</title></rect>
-    <rect class="cell level-0" x="175" y="40" width="11" height="11" rx="2"><title>2025-10-21: 0 contributions</title></rect>
-    <rect class="cell level-0" x="175" y="55" width="11" height="11" rx="2"><title>2025-10-22: 0 contributions</title></rect>
-    <rect class="cell level-0" x="175" y="70" width="11" height="11" rx="2"><title>2025-10-23: 0 contributions</title></rect>
-    <rect class="cell level-0" x="175" y="85" width="11" height="11" rx="2"><title>2025-10-24: 0 contributions</title></rect>
-    <rect class="cell level-0" x="175" y="100" width="11" height="11" rx="2"><title>2025-10-25: 0 contributions</title></rect>
-    <rect class="cell level-0" x="190" y="10" width="11" height="11" rx="2"><title>2025-10-26: 0 contributions</title></rect>
-    <rect class="cell level-0" x="190" y="25" width="11" height="11" rx="2"><title>2025-10-27: 0 contributions</title></rect>
-    <rect class="cell level-0" x="190" y="40" width="11" height="11" rx="2"><title>2025-10-28: 0 contributions</title></rect>
-    <rect class="cell level-0" x="190" y="55" width="11" height="11" rx="2"><title>2025-10-29: 0 contributions</title></rect>
-    <rect class="cell level-0" x="190" y="70" width="11" height="11" rx="2"><title>2025-10-30: 0 contributions</title></rect>
-    <rect class="cell level-0" x="190" y="85" width="11" height="11" rx="2"><title>2025-10-31: 0 contributions</title></rect>
-    <rect class="cell level-0" x="190" y="100" width="11" height="11" rx="2"><title>2025-11-01: 0 contributions</title></rect>
-    <rect class="cell level-0" x="205" y="10" width="11" height="11" rx="2"><title>2025-11-02: 0 contributions</title></rect>
-    <rect class="cell level-0" x="205" y="25" width="11" height="11" rx="2"><title>2025-11-03: 0 contributions</title></rect>
-    <rect class="cell level-0" x="205" y="40" width="11" height="11" rx="2"><title>2025-11-04: 0 contributions</title></rect>
-    <rect class="cell level-0" x="205" y="55" width="11" height="11" rx="2"><title>2025-11-05: 0 contributions</title></rect>
-    <rect class="cell level-0" x="205" y="70" width="11" height="11" rx="2"><title>2025-11-06: 0 contributions</title></rect>
-    <rect class="cell level-0" x="205" y="85" width="11" height="11" rx="2"><title>2025-11-07: 0 contributions</title></rect>
-    <rect class="cell level-0" x="205" y="100" width="11" height="11" rx="2"><title>2025-11-08: 0 contributions</title></rect>
-    <rect class="cell level-0" x="220" y="10" width="11" height="11" rx="2"><title>2025-11-09: 0 contributions</title></rect>
-    <rect class="cell level-0" x="220" y="25" width="11" height="11" rx="2"><title>2025-11-10: 0 contributions</title></rect>
-    <rect class="cell level-0" x="220" y="40" width="11" height="11" rx="2"><title>2025-11-11: 0 contributions</title></rect>
-    <rect class="cell level-0" x="220" y="55" width="11" height="11" rx="2"><title>2025-11-12: 0 contributions</title></rect>
-    <rect class="cell level-0" x="220" y="70" width="11" height="11" rx="2"><title>2025-11-13: 0 contributions</title></rect>
-    <rect class="cell level-0" x="220" y="85" width="11" height="11" rx="2"><title>2025-11-14: 0 contributions</title></rect>
-    <rect class="cell level-0" x="220" y="100" width="11" height="11" rx="2"><title>2025-11-15: 0 contributions</title></rect>
-    <rect class="cell level-0" x="235" y="10" width="11" height="11" rx="2"><title>2025-11-16: 0 contributions</title></rect>
-    <rect class="cell level-0" x="235" y="25" width="11" height="11" rx="2"><title>2025-11-17: 0 contributions</title></rect>
-    <rect class="cell level-0" x="235" y="40" width="11" height="11" rx="2"><title>2025-11-18: 0 contributions</title></rect>
-    <rect class="cell level-0" x="235" y="55" width="11" height="11" rx="2"><title>2025-11-19: 0 contributions</title></rect>
-    <rect class="cell level-0" x="235" y="70" width="11" height="11" rx="2"><title>2025-11-20: 0 contributions</title></rect>
-    <rect class="cell level-0" x="235" y="85" width="11" height="11" rx="2"><title>2025-11-21: 0 contributions</title></rect>
-    <rect class="cell level-0" x="235" y="100" width="11" height="11" rx="2"><title>2025-11-22: 0 contributions</title></rect>
-    <rect class="cell level-0" x="250" y="10" width="11" height="11" rx="2"><title>2025-11-23: 0 contributions</title></rect>
-    <rect class="cell level-0" x="250" y="25" width="11" height="11" rx="2"><title>2025-11-24: 0 contributions</title></rect>
-    <rect class="cell level-0" x="250" y="40" width="11" height="11" rx="2"><title>2025-11-25: 0 contributions</title></rect>
-    <rect class="cell level-0" x="250" y="55" width="11" height="11" rx="2"><title>2025-11-26: 0 contributions</title></rect>
-    <rect class="cell level-0" x="250" y="70" width="11" height="11" rx="2"><title>2025-11-27: 0 contributions</title></rect>
-    <rect class="cell level-0" x="250" y="85" width="11" height="11" rx="2"><title>2025-11-28: 0 contributions</title></rect>
-    <rect class="cell level-0" x="250" y="100" width="11" height="11" rx="2"><title>2025-11-29: 0 contributions</title></rect>
-    <rect class="cell level-0" x="265" y="10" width="11" height="11" rx="2"><title>2025-11-30: 0 contributions</title></rect>
-    <rect class="cell level-0" x="265" y="25" width="11" height="11" rx="2"><title>2025-12-01: 0 contributions</title></rect>
-    <rect class="cell level-0" x="265" y="40" width="11" height="11" rx="2"><title>2025-12-02: 0 contributions</title></rect>
-    <rect class="cell level-0" x="265" y="55" width="11" height="11" rx="2"><title>2025-12-03: 0 contributions</title></rect>
-    <rect class="cell level-0" x="265" y="70" width="11" height="11" rx="2"><title>2025-12-04: 0 contributions</title></rect>
-    <rect class="cell level-0" x="265" y="85" width="11" height="11" rx="2"><title>2025-12-05: 0 contributions</title></rect>
-    <rect class="cell level-0" x="265" y="100" width="11" height="11" rx="2"><title>2025-12-06: 0 contributions</title></rect>
-    <rect class="cell level-0" x="280" y="10" width="11" height="11" rx="2"><title>2025-12-07: 0 contributions</title></rect>
-    <rect class="cell level-0" x="280" y="25" width="11" height="11" rx="2"><title>2025-12-08: 0 contributions</title></rect>
-    <rect class="cell level-0" x="280" y="40" width="11" height="11" rx="2"><title>2025-12-09: 0 contributions</title></rect>
-    <rect class="cell level-0" x="280" y="55" width="11" height="11" rx="2"><title>2025-12-10: 0 contributions</title></rect>
-    <rect class="cell level-0" x="280" y="70" width="11" height="11" rx="2"><title>2025-12-11: 0 contributions</title></rect>
-    <rect class="cell level-0" x="280" y="85" width="11" height="11" rx="2"><title>2025-12-12: 0 contributions</title></rect>
-    <rect class="cell level-0" x="280" y="100" width="11" height="11" rx="2"><title>2025-12-13: 0 contributions</title></rect>
-    <rect class="cell level-0" x="295" y="10" width="11" height="11" rx="2"><title>2025-12-14: 0 contributions</title></rect>
-    <rect class="cell level-0" x="295" y="25" width="11" height="11" rx="2"><title>2025-12-15: 0 contributions</title></rect>
-    <rect class="cell level-0" x="295" y="40" width="11" height="11" rx="2"><title>2025-12-16: 0 contributions</title></rect>
-    <rect class="cell level-0" x="295" y="55" width="11" height="11" rx="2"><title>2025-12-17: 0 contributions</title></rect>
-    <rect class="cell level-0" x="295" y="70" width="11" height="11" rx="2"><title>2025-12-18: 0 contributions</title></rect>
-    <rect class="cell level-0" x="295" y="85" width="11" height="11" rx="2"><title>2025-12-19: 0 contributions</title></rect>
-    <rect class="cell level-0" x="295" y="100" width="11" height="11" rx="2"><title>2025-12-20: 0 contributions</title></rect>
-    <rect class="cell level-0" x="310" y="10" width="11" height="11" rx="2"><title>2025-12-21: 0 contributions</title></rect>
-    <rect class="cell level-0" x="310" y="25" width="11" height="11" rx="2"><title>2025-12-22: 0 contributions</title></rect>
-    <rect class="cell level-0" x="310" y="40" width="11" height="11" rx="2"><title>2025-12-23: 0 contributions</title></rect>
-    <rect class="cell level-0" x="310" y="55" width="11" height="11" rx="2"><title>2025-12-24: 0 contributions</title></rect>
-    <rect class="cell level-0" x="310" y="70" width="11" height="11" rx="2"><title>2025-12-25: 0 contributions</title></rect>
-    <rect class="cell level-0" x="310" y="85" width="11" height="11" rx="2"><title>2025-12-26: 0 contributions</title></rect>
-    <rect class="cell level-0" x="310" y="100" width="11" height="11" rx="2"><title>2025-12-27: 0 contributions</title></rect>
-    <rect class="cell level-0" x="325" y="10" width="11" height="11" rx="2"><title>2025-12-28: 0 contributions</title></rect>
-    <rect class="cell level-0" x="325" y="25" width="11" height="11" rx="2"><title>2025-12-29: 0 contributions</title></rect>
-    <rect class="cell level-0" x="325" y="40" width="11" height="11" rx="2"><title>2025-12-30: 0 contributions</title></rect>
-    <rect class="cell level-0" x="325" y="55" width="11" height="11" rx="2"><title>2025-12-31: 0 contributions</title></rect>
-    <rect class="cell level-0" x="325" y="70" width="11" height="11" rx="2"><title>2026-01-01: 0 contributions</title></rect>
-    <rect class="cell level-0" x="325" y="85" width="11" height="11" rx="2"><title>2026-01-02: 0 contributions</title></rect>
-    <rect class="cell level-0" x="325" y="100" width="11" height="11" rx="2"><title>2026-01-03: 0 contributions</title></rect>
-    <rect class="cell level-0" x="340" y="10" width="11" height="11" rx="2"><title>2026-01-04: 0 contributions</title></rect>
-    <rect class="cell level-0" x="340" y="25" width="11" height="11" rx="2"><title>2026-01-05: 0 contributions</title></rect>
-    <rect class="cell level-0" x="340" y="40" width="11" height="11" rx="2"><title>2026-01-06: 0 contributions</title></rect>
-    <rect class="cell level-0" x="340" y="55" width="11" height="11" rx="2"><title>2026-01-07: 0 contributions</title></rect>
-    <rect class="cell level-0" x="340" y="70" width="11" height="11" rx="2"><title>2026-01-08: 0 contributions</title></rect>
-    <rect class="cell level-0" x="340" y="85" width="11" height="11" rx="2"><title>2026-01-09: 0 contributions</title></rect>
-    <rect class="cell level-0" x="340" y="100" width="11" height="11" rx="2"><title>2026-01-10: 0 contributions</title></rect>
-    <rect class="cell level-0" x="355" y="10" width="11" height="11" rx="2"><title>2026-01-11: 0 contributions</title></rect>
-    <rect class="cell level-0" x="355" y="25" width="11" height="11" rx="2"><title>2026-01-12: 0 contributions</title></rect>
-    <rect class="cell level-1" x="355" y="40" width="11" height="11" rx="2">
+    <rect class="cell level-0" x="130" y="40" width="11" height="11" rx="2"><title>2025-10-07: 0 contributions</title></rect>
+    <rect class="cell level-0" x="130" y="55" width="11" height="11" rx="2"><title>2025-10-08: 0 contributions</title></rect>
+    <rect class="cell level-0" x="130" y="70" width="11" height="11" rx="2"><title>2025-10-09: 0 contributions</title></rect>
+    <rect class="cell level-0" x="130" y="85" width="11" height="11" rx="2"><title>2025-10-10: 0 contributions</title></rect>
+    <rect class="cell level-0" x="130" y="100" width="11" height="11" rx="2"><title>2025-10-11: 0 contributions</title></rect>
+    <rect class="cell level-0" x="145" y="10" width="11" height="11" rx="2"><title>2025-10-12: 0 contributions</title></rect>
+    <rect class="cell level-0" x="145" y="25" width="11" height="11" rx="2"><title>2025-10-13: 0 contributions</title></rect>
+    <rect class="cell level-0" x="145" y="40" width="11" height="11" rx="2"><title>2025-10-14: 0 contributions</title></rect>
+    <rect class="cell level-0" x="145" y="55" width="11" height="11" rx="2"><title>2025-10-15: 0 contributions</title></rect>
+    <rect class="cell level-0" x="145" y="70" width="11" height="11" rx="2"><title>2025-10-16: 0 contributions</title></rect>
+    <rect class="cell level-0" x="145" y="85" width="11" height="11" rx="2"><title>2025-10-17: 0 contributions</title></rect>
+    <rect class="cell level-0" x="145" y="100" width="11" height="11" rx="2"><title>2025-10-18: 0 contributions</title></rect>
+    <rect class="cell level-0" x="160" y="10" width="11" height="11" rx="2"><title>2025-10-19: 0 contributions</title></rect>
+    <rect class="cell level-0" x="160" y="25" width="11" height="11" rx="2"><title>2025-10-20: 0 contributions</title></rect>
+    <rect class="cell level-0" x="160" y="40" width="11" height="11" rx="2"><title>2025-10-21: 0 contributions</title></rect>
+    <rect class="cell level-0" x="160" y="55" width="11" height="11" rx="2"><title>2025-10-22: 0 contributions</title></rect>
+    <rect class="cell level-0" x="160" y="70" width="11" height="11" rx="2"><title>2025-10-23: 0 contributions</title></rect>
+    <rect class="cell level-0" x="160" y="85" width="11" height="11" rx="2"><title>2025-10-24: 0 contributions</title></rect>
+    <rect class="cell level-0" x="160" y="100" width="11" height="11" rx="2"><title>2025-10-25: 0 contributions</title></rect>
+    <rect class="cell level-0" x="175" y="10" width="11" height="11" rx="2"><title>2025-10-26: 0 contributions</title></rect>
+    <rect class="cell level-0" x="175" y="25" width="11" height="11" rx="2"><title>2025-10-27: 0 contributions</title></rect>
+    <rect class="cell level-0" x="175" y="40" width="11" height="11" rx="2"><title>2025-10-28: 0 contributions</title></rect>
+    <rect class="cell level-0" x="175" y="55" width="11" height="11" rx="2"><title>2025-10-29: 0 contributions</title></rect>
+    <rect class="cell level-0" x="175" y="70" width="11" height="11" rx="2"><title>2025-10-30: 0 contributions</title></rect>
+    <rect class="cell level-0" x="175" y="85" width="11" height="11" rx="2"><title>2025-10-31: 0 contributions</title></rect>
+    <rect class="cell level-0" x="175" y="100" width="11" height="11" rx="2"><title>2025-11-01: 0 contributions</title></rect>
+    <rect class="cell level-0" x="190" y="10" width="11" height="11" rx="2"><title>2025-11-02: 0 contributions</title></rect>
+    <rect class="cell level-0" x="190" y="25" width="11" height="11" rx="2"><title>2025-11-03: 0 contributions</title></rect>
+    <rect class="cell level-0" x="190" y="40" width="11" height="11" rx="2"><title>2025-11-04: 0 contributions</title></rect>
+    <rect class="cell level-0" x="190" y="55" width="11" height="11" rx="2"><title>2025-11-05: 0 contributions</title></rect>
+    <rect class="cell level-0" x="190" y="70" width="11" height="11" rx="2"><title>2025-11-06: 0 contributions</title></rect>
+    <rect class="cell level-0" x="190" y="85" width="11" height="11" rx="2"><title>2025-11-07: 0 contributions</title></rect>
+    <rect class="cell level-0" x="190" y="100" width="11" height="11" rx="2"><title>2025-11-08: 0 contributions</title></rect>
+    <rect class="cell level-0" x="205" y="10" width="11" height="11" rx="2"><title>2025-11-09: 0 contributions</title></rect>
+    <rect class="cell level-0" x="205" y="25" width="11" height="11" rx="2"><title>2025-11-10: 0 contributions</title></rect>
+    <rect class="cell level-0" x="205" y="40" width="11" height="11" rx="2"><title>2025-11-11: 0 contributions</title></rect>
+    <rect class="cell level-0" x="205" y="55" width="11" height="11" rx="2"><title>2025-11-12: 0 contributions</title></rect>
+    <rect class="cell level-0" x="205" y="70" width="11" height="11" rx="2"><title>2025-11-13: 0 contributions</title></rect>
+    <rect class="cell level-0" x="205" y="85" width="11" height="11" rx="2"><title>2025-11-14: 0 contributions</title></rect>
+    <rect class="cell level-0" x="205" y="100" width="11" height="11" rx="2"><title>2025-11-15: 0 contributions</title></rect>
+    <rect class="cell level-0" x="220" y="10" width="11" height="11" rx="2"><title>2025-11-16: 0 contributions</title></rect>
+    <rect class="cell level-0" x="220" y="25" width="11" height="11" rx="2"><title>2025-11-17: 0 contributions</title></rect>
+    <rect class="cell level-0" x="220" y="40" width="11" height="11" rx="2"><title>2025-11-18: 0 contributions</title></rect>
+    <rect class="cell level-0" x="220" y="55" width="11" height="11" rx="2"><title>2025-11-19: 0 contributions</title></rect>
+    <rect class="cell level-0" x="220" y="70" width="11" height="11" rx="2"><title>2025-11-20: 0 contributions</title></rect>
+    <rect class="cell level-0" x="220" y="85" width="11" height="11" rx="2"><title>2025-11-21: 0 contributions</title></rect>
+    <rect class="cell level-0" x="220" y="100" width="11" height="11" rx="2"><title>2025-11-22: 0 contributions</title></rect>
+    <rect class="cell level-0" x="235" y="10" width="11" height="11" rx="2"><title>2025-11-23: 0 contributions</title></rect>
+    <rect class="cell level-0" x="235" y="25" width="11" height="11" rx="2"><title>2025-11-24: 0 contributions</title></rect>
+    <rect class="cell level-0" x="235" y="40" width="11" height="11" rx="2"><title>2025-11-25: 0 contributions</title></rect>
+    <rect class="cell level-0" x="235" y="55" width="11" height="11" rx="2"><title>2025-11-26: 0 contributions</title></rect>
+    <rect class="cell level-0" x="235" y="70" width="11" height="11" rx="2"><title>2025-11-27: 0 contributions</title></rect>
+    <rect class="cell level-0" x="235" y="85" width="11" height="11" rx="2"><title>2025-11-28: 0 contributions</title></rect>
+    <rect class="cell level-0" x="235" y="100" width="11" height="11" rx="2"><title>2025-11-29: 0 contributions</title></rect>
+    <rect class="cell level-0" x="250" y="10" width="11" height="11" rx="2"><title>2025-11-30: 0 contributions</title></rect>
+    <rect class="cell level-0" x="250" y="25" width="11" height="11" rx="2"><title>2025-12-01: 0 contributions</title></rect>
+    <rect class="cell level-0" x="250" y="40" width="11" height="11" rx="2"><title>2025-12-02: 0 contributions</title></rect>
+    <rect class="cell level-0" x="250" y="55" width="11" height="11" rx="2"><title>2025-12-03: 0 contributions</title></rect>
+    <rect class="cell level-0" x="250" y="70" width="11" height="11" rx="2"><title>2025-12-04: 0 contributions</title></rect>
+    <rect class="cell level-0" x="250" y="85" width="11" height="11" rx="2"><title>2025-12-05: 0 contributions</title></rect>
+    <rect class="cell level-0" x="250" y="100" width="11" height="11" rx="2"><title>2025-12-06: 0 contributions</title></rect>
+    <rect class="cell level-0" x="265" y="10" width="11" height="11" rx="2"><title>2025-12-07: 0 contributions</title></rect>
+    <rect class="cell level-0" x="265" y="25" width="11" height="11" rx="2"><title>2025-12-08: 0 contributions</title></rect>
+    <rect class="cell level-0" x="265" y="40" width="11" height="11" rx="2"><title>2025-12-09: 0 contributions</title></rect>
+    <rect class="cell level-0" x="265" y="55" width="11" height="11" rx="2"><title>2025-12-10: 0 contributions</title></rect>
+    <rect class="cell level-0" x="265" y="70" width="11" height="11" rx="2"><title>2025-12-11: 0 contributions</title></rect>
+    <rect class="cell level-0" x="265" y="85" width="11" height="11" rx="2"><title>2025-12-12: 0 contributions</title></rect>
+    <rect class="cell level-0" x="265" y="100" width="11" height="11" rx="2"><title>2025-12-13: 0 contributions</title></rect>
+    <rect class="cell level-0" x="280" y="10" width="11" height="11" rx="2"><title>2025-12-14: 0 contributions</title></rect>
+    <rect class="cell level-0" x="280" y="25" width="11" height="11" rx="2"><title>2025-12-15: 0 contributions</title></rect>
+    <rect class="cell level-0" x="280" y="40" width="11" height="11" rx="2"><title>2025-12-16: 0 contributions</title></rect>
+    <rect class="cell level-0" x="280" y="55" width="11" height="11" rx="2"><title>2025-12-17: 0 contributions</title></rect>
+    <rect class="cell level-0" x="280" y="70" width="11" height="11" rx="2"><title>2025-12-18: 0 contributions</title></rect>
+    <rect class="cell level-0" x="280" y="85" width="11" height="11" rx="2"><title>2025-12-19: 0 contributions</title></rect>
+    <rect class="cell level-0" x="280" y="100" width="11" height="11" rx="2"><title>2025-12-20: 0 contributions</title></rect>
+    <rect class="cell level-0" x="295" y="10" width="11" height="11" rx="2"><title>2025-12-21: 0 contributions</title></rect>
+    <rect class="cell level-0" x="295" y="25" width="11" height="11" rx="2"><title>2025-12-22: 0 contributions</title></rect>
+    <rect class="cell level-0" x="295" y="40" width="11" height="11" rx="2"><title>2025-12-23: 0 contributions</title></rect>
+    <rect class="cell level-0" x="295" y="55" width="11" height="11" rx="2"><title>2025-12-24: 0 contributions</title></rect>
+    <rect class="cell level-0" x="295" y="70" width="11" height="11" rx="2"><title>2025-12-25: 0 contributions</title></rect>
+    <rect class="cell level-0" x="295" y="85" width="11" height="11" rx="2"><title>2025-12-26: 0 contributions</title></rect>
+    <rect class="cell level-0" x="295" y="100" width="11" height="11" rx="2"><title>2025-12-27: 0 contributions</title></rect>
+    <rect class="cell level-0" x="310" y="10" width="11" height="11" rx="2"><title>2025-12-28: 0 contributions</title></rect>
+    <rect class="cell level-0" x="310" y="25" width="11" height="11" rx="2"><title>2025-12-29: 0 contributions</title></rect>
+    <rect class="cell level-0" x="310" y="40" width="11" height="11" rx="2"><title>2025-12-30: 0 contributions</title></rect>
+    <rect class="cell level-0" x="310" y="55" width="11" height="11" rx="2"><title>2025-12-31: 0 contributions</title></rect>
+    <rect class="cell level-0" x="310" y="70" width="11" height="11" rx="2"><title>2026-01-01: 0 contributions</title></rect>
+    <rect class="cell level-0" x="310" y="85" width="11" height="11" rx="2"><title>2026-01-02: 0 contributions</title></rect>
+    <rect class="cell level-0" x="310" y="100" width="11" height="11" rx="2"><title>2026-01-03: 0 contributions</title></rect>
+    <rect class="cell level-0" x="325" y="10" width="11" height="11" rx="2"><title>2026-01-04: 0 contributions</title></rect>
+    <rect class="cell level-0" x="325" y="25" width="11" height="11" rx="2"><title>2026-01-05: 0 contributions</title></rect>
+    <rect class="cell level-0" x="325" y="40" width="11" height="11" rx="2"><title>2026-01-06: 0 contributions</title></rect>
+    <rect class="cell level-0" x="325" y="55" width="11" height="11" rx="2"><title>2026-01-07: 0 contributions</title></rect>
+    <rect class="cell level-0" x="325" y="70" width="11" height="11" rx="2"><title>2026-01-08: 0 contributions</title></rect>
+    <rect class="cell level-0" x="325" y="85" width="11" height="11" rx="2"><title>2026-01-09: 0 contributions</title></rect>
+    <rect class="cell level-0" x="325" y="100" width="11" height="11" rx="2"><title>2026-01-10: 0 contributions</title></rect>
+    <rect class="cell level-0" x="340" y="10" width="11" height="11" rx="2"><title>2026-01-11: 0 contributions</title></rect>
+    <rect class="cell level-0" x="340" y="25" width="11" height="11" rx="2"><title>2026-01-12: 0 contributions</title></rect>
+    <rect class="cell level-1" x="340" y="40" width="11" height="11" rx="2">
       <title>2026-01-13: 1 contribution</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.127706;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.508696;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="355" y="55" width="11" height="11" rx="2"><title>2026-01-14: 0 contributions</title></rect>
-    <rect class="cell level-0" x="355" y="70" width="11" height="11" rx="2"><title>2026-01-15: 0 contributions</title></rect>
-    <rect class="cell level-0" x="355" y="85" width="11" height="11" rx="2"><title>2026-01-16: 0 contributions</title></rect>
-    <rect class="cell level-0" x="355" y="100" width="11" height="11" rx="2"><title>2026-01-17: 0 contributions</title></rect>
-    <rect class="cell level-3" x="370" y="10" width="11" height="11" rx="2">
+    <rect class="cell level-0" x="340" y="55" width="11" height="11" rx="2"><title>2026-01-14: 0 contributions</title></rect>
+    <rect class="cell level-0" x="340" y="70" width="11" height="11" rx="2"><title>2026-01-15: 0 contributions</title></rect>
+    <rect class="cell level-0" x="340" y="85" width="11" height="11" rx="2"><title>2026-01-16: 0 contributions</title></rect>
+    <rect class="cell level-0" x="340" y="100" width="11" height="11" rx="2"><title>2026-01-17: 0 contributions</title></rect>
+    <rect class="cell level-3" x="355" y="10" width="11" height="11" rx="2">
       <title>2026-01-18: 13 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.614719;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.619565;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="370" y="25" width="11" height="11" rx="2">
+    <rect class="cell level-2" x="355" y="25" width="11" height="11" rx="2">
       <title>2026-01-19: 10 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.132035;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.617391;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-4" x="370" y="40" width="11" height="11" rx="2">
+    <rect class="cell level-4" x="355" y="40" width="11" height="11" rx="2">
       <title>2026-01-20: 24 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.134199;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.506522;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-3" x="370" y="55" width="11" height="11" rx="2">
+    <rect class="cell level-3" x="355" y="55" width="11" height="11" rx="2">
       <title>2026-01-21: 12 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.136364;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.469565;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="370" y="70" width="11" height="11" rx="2">
+    <rect class="cell level-1" x="355" y="70" width="11" height="11" rx="2">
       <title>2026-01-22: 2 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.138528;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.463043;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="370" y="85" width="11" height="11" rx="2"><title>2026-01-23: 0 contributions</title></rect>
-    <rect class="cell level-0" x="370" y="100" width="11" height="11" rx="2"><title>2026-01-24: 0 contributions</title></rect>
-    <rect class="cell level-0" x="385" y="10" width="11" height="11" rx="2"><title>2026-01-25: 0 contributions</title></rect>
-    <rect class="cell level-4" x="385" y="25" width="11" height="11" rx="2">
+    <rect class="cell level-0" x="355" y="85" width="11" height="11" rx="2"><title>2026-01-23: 0 contributions</title></rect>
+    <rect class="cell level-0" x="355" y="100" width="11" height="11" rx="2"><title>2026-01-24: 0 contributions</title></rect>
+    <rect class="cell level-0" x="370" y="10" width="11" height="11" rx="2"><title>2026-01-25: 0 contributions</title></rect>
+    <rect class="cell level-4" x="370" y="25" width="11" height="11" rx="2">
       <title>2026-01-26: 24 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.155844;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.502174;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-3" x="385" y="40" width="11" height="11" rx="2">
+    <rect class="cell level-3" x="370" y="40" width="11" height="11" rx="2">
       <title>2026-01-27: 16 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.15368;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.504348;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="385" y="55" width="11" height="11" rx="2"><title>2026-01-28: 0 contributions</title></rect>
-    <rect class="cell level-0" x="385" y="70" width="11" height="11" rx="2"><title>2026-01-29: 0 contributions</title></rect>
-    <rect class="cell level-0" x="385" y="85" width="11" height="11" rx="2"><title>2026-01-30: 0 contributions</title></rect>
-    <rect class="cell level-1" x="385" y="100" width="11" height="11" rx="2">
+    <rect class="cell level-0" x="370" y="55" width="11" height="11" rx="2"><title>2026-01-28: 0 contributions</title></rect>
+    <rect class="cell level-0" x="370" y="70" width="11" height="11" rx="2"><title>2026-01-29: 0 contributions</title></rect>
+    <rect class="cell level-0" x="370" y="85" width="11" height="11" rx="2"><title>2026-01-30: 0 contributions</title></rect>
+    <rect class="cell level-1" x="370" y="100" width="11" height="11" rx="2">
       <title>2026-01-31: 4 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.145022;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.452174;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-4" x="385" y="10" width="11" height="11" rx="2">
+      <title>2026-02-01: 64 contributions</title>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.497826;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-0" x="385" y="25" width="11" height="11" rx="2"><title>2026-02-02: 0 contributions</title></rect>
+    <rect class="cell level-4" x="385" y="40" width="11" height="11" rx="2">
+      <title>2026-02-03: 22 contributions</title>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.493478;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-1" x="385" y="55" width="11" height="11" rx="2">
+      <title>2026-02-04: 1 contribution</title>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.486957;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-2" x="385" y="70" width="11" height="11" rx="2">
+      <title>2026-02-05: 9 contributions</title>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.484783;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-2" x="385" y="85" width="11" height="11" rx="2">
+      <title>2026-02-06: 8 contributions</title>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.478261;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
+    </rect>
+    <rect class="cell level-2" x="385" y="100" width="11" height="11" rx="2">
+      <title>2026-02-07: 11 contributions</title>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.45;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
     <rect class="cell level-4" x="400" y="10" width="11" height="11" rx="2">
-      <title>2026-02-01: 64 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.61039;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-0" x="400" y="25" width="11" height="11" rx="2"><title>2026-02-02: 0 contributions</title></rect>
-    <rect class="cell level-4" x="400" y="40" width="11" height="11" rx="2">
-      <title>2026-02-03: 22 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.160173;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-1" x="400" y="55" width="11" height="11" rx="2">
-      <title>2026-02-04: 1 contribution</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.162338;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-2" x="400" y="70" width="11" height="11" rx="2">
-      <title>2026-02-05: 9 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.164502;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-2" x="400" y="85" width="11" height="11" rx="2">
-      <title>2026-02-06: 8 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.166667;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-2" x="400" y="100" width="11" height="11" rx="2">
-      <title>2026-02-07: 11 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.168831;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
-    </rect>
-    <rect class="cell level-4" x="415" y="10" width="11" height="11" rx="2">
       <title>2026-02-08: 23 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.608225;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.430435;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-4" x="415" y="25" width="11" height="11" rx="2">
+    <rect class="cell level-4" x="400" y="25" width="11" height="11" rx="2">
       <title>2026-02-09: 18 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.181818;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.432609;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="415" y="40" width="11" height="11" rx="2"><title>2026-02-10: 0 contributions</title></rect>
-    <rect class="cell level-0" x="415" y="55" width="11" height="11" rx="2"><title>2026-02-11: 0 contributions</title></rect>
-    <rect class="cell level-1" x="415" y="70" width="11" height="11" rx="2">
+    <rect class="cell level-0" x="400" y="40" width="11" height="11" rx="2"><title>2026-02-10: 0 contributions</title></rect>
+    <rect class="cell level-0" x="400" y="55" width="11" height="11" rx="2"><title>2026-02-11: 0 contributions</title></rect>
+    <rect class="cell level-1" x="400" y="70" width="11" height="11" rx="2">
       <title>2026-02-12: 2 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.175325;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.482609;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="415" y="85" width="11" height="11" rx="2">
+    <rect class="cell level-1" x="400" y="85" width="11" height="11" rx="2">
       <title>2026-02-13: 4 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.17316;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.480435;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="415" y="100" width="11" height="11" rx="2"><title>2026-02-14: 0 contributions</title></rect>
-    <rect class="cell level-0" x="430" y="10" width="11" height="11" rx="2"><title>2026-02-15: 0 contributions</title></rect>
-    <rect class="cell level-0" x="430" y="25" width="11" height="11" rx="2"><title>2026-02-16: 0 contributions</title></rect>
-    <rect class="cell level-0" x="430" y="40" width="11" height="11" rx="2"><title>2026-02-17: 0 contributions</title></rect>
-    <rect class="cell level-0" x="430" y="55" width="11" height="11" rx="2"><title>2026-02-18: 0 contributions</title></rect>
-    <rect class="cell level-0" x="430" y="70" width="11" height="11" rx="2"><title>2026-02-19: 0 contributions</title></rect>
-    <rect class="cell level-0" x="430" y="85" width="11" height="11" rx="2"><title>2026-02-20: 0 contributions</title></rect>
-    <rect class="cell level-0" x="430" y="100" width="11" height="11" rx="2"><title>2026-02-21: 0 contributions</title></rect>
-    <rect class="cell level-0" x="445" y="10" width="11" height="11" rx="2"><title>2026-02-22: 0 contributions</title></rect>
-    <rect class="cell level-0" x="445" y="25" width="11" height="11" rx="2"><title>2026-02-23: 0 contributions</title></rect>
-    <rect class="cell level-0" x="445" y="40" width="11" height="11" rx="2"><title>2026-02-24: 0 contributions</title></rect>
-    <rect class="cell level-0" x="445" y="55" width="11" height="11" rx="2"><title>2026-02-25: 0 contributions</title></rect>
-    <rect class="cell level-0" x="445" y="70" width="11" height="11" rx="2"><title>2026-02-26: 0 contributions</title></rect>
-    <rect class="cell level-0" x="445" y="85" width="11" height="11" rx="2"><title>2026-02-27: 0 contributions</title></rect>
-    <rect class="cell level-0" x="445" y="100" width="11" height="11" rx="2"><title>2026-02-28: 0 contributions</title></rect>
-    <rect class="cell level-0" x="460" y="10" width="11" height="11" rx="2"><title>2026-03-01: 0 contributions</title></rect>
-    <rect class="cell level-0" x="460" y="25" width="11" height="11" rx="2"><title>2026-03-02: 0 contributions</title></rect>
-    <rect class="cell level-1" x="460" y="40" width="11" height="11" rx="2">
+    <rect class="cell level-0" x="400" y="100" width="11" height="11" rx="2"><title>2026-02-14: 0 contributions</title></rect>
+    <rect class="cell level-0" x="415" y="10" width="11" height="11" rx="2"><title>2026-02-15: 0 contributions</title></rect>
+    <rect class="cell level-0" x="415" y="25" width="11" height="11" rx="2"><title>2026-02-16: 0 contributions</title></rect>
+    <rect class="cell level-0" x="415" y="40" width="11" height="11" rx="2"><title>2026-02-17: 0 contributions</title></rect>
+    <rect class="cell level-0" x="415" y="55" width="11" height="11" rx="2"><title>2026-02-18: 0 contributions</title></rect>
+    <rect class="cell level-0" x="415" y="70" width="11" height="11" rx="2"><title>2026-02-19: 0 contributions</title></rect>
+    <rect class="cell level-0" x="415" y="85" width="11" height="11" rx="2"><title>2026-02-20: 0 contributions</title></rect>
+    <rect class="cell level-0" x="415" y="100" width="11" height="11" rx="2"><title>2026-02-21: 0 contributions</title></rect>
+    <rect class="cell level-0" x="430" y="10" width="11" height="11" rx="2"><title>2026-02-22: 0 contributions</title></rect>
+    <rect class="cell level-0" x="430" y="25" width="11" height="11" rx="2"><title>2026-02-23: 0 contributions</title></rect>
+    <rect class="cell level-0" x="430" y="40" width="11" height="11" rx="2"><title>2026-02-24: 0 contributions</title></rect>
+    <rect class="cell level-0" x="430" y="55" width="11" height="11" rx="2"><title>2026-02-25: 0 contributions</title></rect>
+    <rect class="cell level-0" x="430" y="70" width="11" height="11" rx="2"><title>2026-02-26: 0 contributions</title></rect>
+    <rect class="cell level-0" x="430" y="85" width="11" height="11" rx="2"><title>2026-02-27: 0 contributions</title></rect>
+    <rect class="cell level-0" x="430" y="100" width="11" height="11" rx="2"><title>2026-02-28: 0 contributions</title></rect>
+    <rect class="cell level-0" x="445" y="10" width="11" height="11" rx="2"><title>2026-03-01: 0 contributions</title></rect>
+    <rect class="cell level-0" x="445" y="25" width="11" height="11" rx="2"><title>2026-03-02: 0 contributions</title></rect>
+    <rect class="cell level-1" x="445" y="40" width="11" height="11" rx="2">
       <title>2026-03-03: 2 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.212121;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.380435;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="460" y="55" width="11" height="11" rx="2"><title>2026-03-04: 0 contributions</title></rect>
-    <rect class="cell level-0" x="460" y="70" width="11" height="11" rx="2"><title>2026-03-05: 0 contributions</title></rect>
-    <rect class="cell level-0" x="460" y="85" width="11" height="11" rx="2"><title>2026-03-06: 0 contributions</title></rect>
-    <rect class="cell level-0" x="460" y="100" width="11" height="11" rx="2"><title>2026-03-07: 0 contributions</title></rect>
-    <rect class="cell level-0" x="475" y="10" width="11" height="11" rx="2"><title>2026-03-08: 0 contributions</title></rect>
-    <rect class="cell level-0" x="475" y="25" width="11" height="11" rx="2"><title>2026-03-09: 0 contributions</title></rect>
-    <rect class="cell level-0" x="475" y="40" width="11" height="11" rx="2"><title>2026-03-10: 0 contributions</title></rect>
-    <rect class="cell level-0" x="475" y="55" width="11" height="11" rx="2"><title>2026-03-11: 0 contributions</title></rect>
-    <rect class="cell level-0" x="475" y="70" width="11" height="11" rx="2"><title>2026-03-12: 0 contributions</title></rect>
-    <rect class="cell level-0" x="475" y="85" width="11" height="11" rx="2"><title>2026-03-13: 0 contributions</title></rect>
-    <rect class="cell level-0" x="475" y="100" width="11" height="11" rx="2"><title>2026-03-14: 0 contributions</title></rect>
-    <rect class="cell level-0" x="490" y="10" width="11" height="11" rx="2"><title>2026-03-15: 0 contributions</title></rect>
-    <rect class="cell level-0" x="490" y="25" width="11" height="11" rx="2"><title>2026-03-16: 0 contributions</title></rect>
-    <rect class="cell level-0" x="490" y="40" width="11" height="11" rx="2"><title>2026-03-17: 0 contributions</title></rect>
-    <rect class="cell level-1" x="490" y="55" width="11" height="11" rx="2">
+    <rect class="cell level-0" x="445" y="55" width="11" height="11" rx="2"><title>2026-03-04: 0 contributions</title></rect>
+    <rect class="cell level-0" x="445" y="70" width="11" height="11" rx="2"><title>2026-03-05: 0 contributions</title></rect>
+    <rect class="cell level-0" x="445" y="85" width="11" height="11" rx="2"><title>2026-03-06: 0 contributions</title></rect>
+    <rect class="cell level-0" x="445" y="100" width="11" height="11" rx="2"><title>2026-03-07: 0 contributions</title></rect>
+    <rect class="cell level-0" x="460" y="10" width="11" height="11" rx="2"><title>2026-03-08: 0 contributions</title></rect>
+    <rect class="cell level-0" x="460" y="25" width="11" height="11" rx="2"><title>2026-03-09: 0 contributions</title></rect>
+    <rect class="cell level-0" x="460" y="40" width="11" height="11" rx="2"><title>2026-03-10: 0 contributions</title></rect>
+    <rect class="cell level-0" x="460" y="55" width="11" height="11" rx="2"><title>2026-03-11: 0 contributions</title></rect>
+    <rect class="cell level-0" x="460" y="70" width="11" height="11" rx="2"><title>2026-03-12: 0 contributions</title></rect>
+    <rect class="cell level-0" x="460" y="85" width="11" height="11" rx="2"><title>2026-03-13: 0 contributions</title></rect>
+    <rect class="cell level-0" x="460" y="100" width="11" height="11" rx="2"><title>2026-03-14: 0 contributions</title></rect>
+    <rect class="cell level-0" x="475" y="10" width="11" height="11" rx="2"><title>2026-03-15: 0 contributions</title></rect>
+    <rect class="cell level-0" x="475" y="25" width="11" height="11" rx="2"><title>2026-03-16: 0 contributions</title></rect>
+    <rect class="cell level-0" x="475" y="40" width="11" height="11" rx="2"><title>2026-03-17: 0 contributions</title></rect>
+    <rect class="cell level-1" x="475" y="55" width="11" height="11" rx="2">
       <title>2026-03-18: 5 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.24026;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.386957;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="490" y="70" width="11" height="11" rx="2"><title>2026-03-19: 0 contributions</title></rect>
-    <rect class="cell level-0" x="490" y="85" width="11" height="11" rx="2"><title>2026-03-20: 0 contributions</title></rect>
-    <rect class="cell level-0" x="490" y="100" width="11" height="11" rx="2"><title>2026-03-21: 0 contributions</title></rect>
-    <rect class="cell level-0" x="505" y="10" width="11" height="11" rx="2"><title>2026-03-22: 0 contributions</title></rect>
-    <rect class="cell level-0" x="505" y="25" width="11" height="11" rx="2"><title>2026-03-23: 0 contributions</title></rect>
-    <rect class="cell level-0" x="505" y="40" width="11" height="11" rx="2"><title>2026-03-24: 0 contributions</title></rect>
-    <rect class="cell level-0" x="505" y="55" width="11" height="11" rx="2"><title>2026-03-25: 0 contributions</title></rect>
-    <rect class="cell level-0" x="505" y="70" width="11" height="11" rx="2"><title>2026-03-26: 0 contributions</title></rect>
-    <rect class="cell level-0" x="505" y="85" width="11" height="11" rx="2"><title>2026-03-27: 0 contributions</title></rect>
-    <rect class="cell level-0" x="505" y="100" width="11" height="11" rx="2"><title>2026-03-28: 0 contributions</title></rect>
-    <rect class="cell level-0" x="520" y="10" width="11" height="11" rx="2"><title>2026-03-29: 0 contributions</title></rect>
-    <rect class="cell level-2" x="520" y="25" width="11" height="11" rx="2">
+    <rect class="cell level-0" x="475" y="70" width="11" height="11" rx="2"><title>2026-03-19: 0 contributions</title></rect>
+    <rect class="cell level-0" x="475" y="85" width="11" height="11" rx="2"><title>2026-03-20: 0 contributions</title></rect>
+    <rect class="cell level-0" x="475" y="100" width="11" height="11" rx="2"><title>2026-03-21: 0 contributions</title></rect>
+    <rect class="cell level-0" x="490" y="10" width="11" height="11" rx="2"><title>2026-03-22: 0 contributions</title></rect>
+    <rect class="cell level-0" x="490" y="25" width="11" height="11" rx="2"><title>2026-03-23: 0 contributions</title></rect>
+    <rect class="cell level-0" x="490" y="40" width="11" height="11" rx="2"><title>2026-03-24: 0 contributions</title></rect>
+    <rect class="cell level-0" x="490" y="55" width="11" height="11" rx="2"><title>2026-03-25: 0 contributions</title></rect>
+    <rect class="cell level-0" x="490" y="70" width="11" height="11" rx="2"><title>2026-03-26: 0 contributions</title></rect>
+    <rect class="cell level-0" x="490" y="85" width="11" height="11" rx="2"><title>2026-03-27: 0 contributions</title></rect>
+    <rect class="cell level-0" x="490" y="100" width="11" height="11" rx="2"><title>2026-03-28: 0 contributions</title></rect>
+    <rect class="cell level-0" x="505" y="10" width="11" height="11" rx="2"><title>2026-03-29: 0 contributions</title></rect>
+    <rect class="cell level-2" x="505" y="25" width="11" height="11" rx="2">
       <title>2026-03-30: 8 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.261905;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.347826;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="520" y="40" width="11" height="11" rx="2">
+    <rect class="cell level-1" x="505" y="40" width="11" height="11" rx="2">
       <title>2026-03-31: 3 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.264069;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.35;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="520" y="55" width="11" height="11" rx="2">
+    <rect class="cell level-2" x="505" y="55" width="11" height="11" rx="2">
       <title>2026-04-01: 10 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.266234;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.352174;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="520" y="70" width="11" height="11" rx="2"><title>2026-04-02: 0 contributions</title></rect>
-    <rect class="cell level-1" x="520" y="85" width="11" height="11" rx="2">
+    <rect class="cell level-0" x="505" y="70" width="11" height="11" rx="2"><title>2026-04-02: 0 contributions</title></rect>
+    <rect class="cell level-1" x="505" y="85" width="11" height="11" rx="2">
       <title>2026-04-03: 5 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.270563;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.269565;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="520" y="100" width="11" height="11" rx="2"><title>2026-04-04: 0 contributions</title></rect>
-    <rect class="cell level-1" x="535" y="10" width="11" height="11" rx="2">
+    <rect class="cell level-0" x="505" y="100" width="11" height="11" rx="2"><title>2026-04-04: 0 contributions</title></rect>
+    <rect class="cell level-1" x="520" y="10" width="11" height="11" rx="2">
       <title>2026-04-05: 1 contribution</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.590909;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.343478;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-2" x="535" y="25" width="11" height="11" rx="2">
+    <rect class="cell level-2" x="520" y="25" width="11" height="11" rx="2">
       <title>2026-04-06: 8 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.285714;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.297826;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-3" x="535" y="40" width="11" height="11" rx="2">
+    <rect class="cell level-3" x="520" y="40" width="11" height="11" rx="2">
       <title>2026-04-07: 12 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.28355;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.295652;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="535" y="55" width="11" height="11" rx="2"><title>2026-04-08: 0 contributions</title></rect>
-    <rect class="cell level-1" x="535" y="70" width="11" height="11" rx="2">
+    <rect class="cell level-0" x="520" y="55" width="11" height="11" rx="2"><title>2026-04-08: 0 contributions</title></rect>
+    <rect class="cell level-1" x="520" y="70" width="11" height="11" rx="2">
       <title>2026-04-09: 2 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.279221;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.282609;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="535" y="85" width="11" height="11" rx="2"><title>2026-04-10: 0 contributions</title></rect>
-    <rect class="cell level-0" x="535" y="100" width="11" height="11" rx="2"><title>2026-04-11: 0 contributions</title></rect>
-    <rect class="cell level-0" x="550" y="10" width="11" height="11" rx="2"><title>2026-04-12: 0 contributions</title></rect>
-    <rect class="cell level-0" x="550" y="25" width="11" height="11" rx="2"><title>2026-04-13: 0 contributions</title></rect>
-    <rect class="cell level-0" x="550" y="40" width="11" height="11" rx="2"><title>2026-04-14: 0 contributions</title></rect>
-    <rect class="cell level-0" x="550" y="55" width="11" height="11" rx="2"><title>2026-04-15: 0 contributions</title></rect>
-    <rect class="cell level-0" x="550" y="70" width="11" height="11" rx="2"><title>2026-04-16: 0 contributions</title></rect>
-    <rect class="cell level-0" x="550" y="85" width="11" height="11" rx="2"><title>2026-04-17: 0 contributions</title></rect>
-    <rect class="cell level-3" x="550" y="100" width="11" height="11" rx="2">
+    <rect class="cell level-0" x="520" y="85" width="11" height="11" rx="2"><title>2026-04-10: 0 contributions</title></rect>
+    <rect class="cell level-0" x="520" y="100" width="11" height="11" rx="2"><title>2026-04-11: 0 contributions</title></rect>
+    <rect class="cell level-0" x="535" y="10" width="11" height="11" rx="2"><title>2026-04-12: 0 contributions</title></rect>
+    <rect class="cell level-0" x="535" y="25" width="11" height="11" rx="2"><title>2026-04-13: 0 contributions</title></rect>
+    <rect class="cell level-0" x="535" y="40" width="11" height="11" rx="2"><title>2026-04-14: 0 contributions</title></rect>
+    <rect class="cell level-0" x="535" y="55" width="11" height="11" rx="2"><title>2026-04-15: 0 contributions</title></rect>
+    <rect class="cell level-0" x="535" y="70" width="11" height="11" rx="2"><title>2026-04-16: 0 contributions</title></rect>
+    <rect class="cell level-0" x="535" y="85" width="11" height="11" rx="2"><title>2026-04-17: 0 contributions</title></rect>
+    <rect class="cell level-3" x="535" y="100" width="11" height="11" rx="2">
       <title>2026-04-18: 17 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.298701;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.258696;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="565" y="10" width="11" height="11" rx="2">
+    <rect class="cell level-1" x="550" y="10" width="11" height="11" rx="2">
       <title>2026-04-19: 2 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.58658;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.33913;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="565" y="25" width="11" height="11" rx="2">
+    <rect class="cell level-1" x="550" y="25" width="11" height="11" rx="2">
       <title>2026-04-20: 2 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.311688;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.302174;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="565" y="40" width="11" height="11" rx="2"><title>2026-04-21: 0 contributions</title></rect>
-    <rect class="cell level-0" x="565" y="55" width="11" height="11" rx="2"><title>2026-04-22: 0 contributions</title></rect>
-    <rect class="cell level-0" x="565" y="70" width="11" height="11" rx="2"><title>2026-04-23: 0 contributions</title></rect>
-    <rect class="cell level-0" x="565" y="85" width="11" height="11" rx="2"><title>2026-04-24: 0 contributions</title></rect>
-    <rect class="cell level-0" x="565" y="100" width="11" height="11" rx="2"><title>2026-04-25: 0 contributions</title></rect>
-    <rect class="cell level-0" x="580" y="10" width="11" height="11" rx="2"><title>2026-04-26: 0 contributions</title></rect>
-    <rect class="cell level-0" x="580" y="25" width="11" height="11" rx="2"><title>2026-04-27: 0 contributions</title></rect>
-    <rect class="cell level-0" x="580" y="40" width="11" height="11" rx="2"><title>2026-04-28: 0 contributions</title></rect>
-    <rect class="cell level-0" x="580" y="55" width="11" height="11" rx="2"><title>2026-04-29: 0 contributions</title></rect>
-    <rect class="cell level-0" x="580" y="70" width="11" height="11" rx="2"><title>2026-04-30: 0 contributions</title></rect>
-    <rect class="cell level-0" x="580" y="85" width="11" height="11" rx="2"><title>2026-05-01: 0 contributions</title></rect>
-    <rect class="cell level-1" x="580" y="100" width="11" height="11" rx="2">
+    <rect class="cell level-0" x="550" y="40" width="11" height="11" rx="2"><title>2026-04-21: 0 contributions</title></rect>
+    <rect class="cell level-0" x="550" y="55" width="11" height="11" rx="2"><title>2026-04-22: 0 contributions</title></rect>
+    <rect class="cell level-0" x="550" y="70" width="11" height="11" rx="2"><title>2026-04-23: 0 contributions</title></rect>
+    <rect class="cell level-0" x="550" y="85" width="11" height="11" rx="2"><title>2026-04-24: 0 contributions</title></rect>
+    <rect class="cell level-0" x="550" y="100" width="11" height="11" rx="2"><title>2026-04-25: 0 contributions</title></rect>
+    <rect class="cell level-0" x="565" y="10" width="11" height="11" rx="2"><title>2026-04-26: 0 contributions</title></rect>
+    <rect class="cell level-0" x="565" y="25" width="11" height="11" rx="2"><title>2026-04-27: 0 contributions</title></rect>
+    <rect class="cell level-0" x="565" y="40" width="11" height="11" rx="2"><title>2026-04-28: 0 contributions</title></rect>
+    <rect class="cell level-0" x="565" y="55" width="11" height="11" rx="2"><title>2026-04-29: 0 contributions</title></rect>
+    <rect class="cell level-0" x="565" y="70" width="11" height="11" rx="2"><title>2026-04-30: 0 contributions</title></rect>
+    <rect class="cell level-0" x="565" y="85" width="11" height="11" rx="2"><title>2026-05-01: 0 contributions</title></rect>
+    <rect class="cell level-1" x="565" y="100" width="11" height="11" rx="2">
       <title>2026-05-02: 1 contribution</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.324675;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.254348;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="595" y="10" width="11" height="11" rx="2"><title>2026-05-03: 0 contributions</title></rect>
-    <rect class="cell level-1" x="595" y="25" width="11" height="11" rx="2">
+    <rect class="cell level-0" x="580" y="10" width="11" height="11" rx="2"><title>2026-05-03: 0 contributions</title></rect>
+    <rect class="cell level-1" x="580" y="25" width="11" height="11" rx="2">
       <title>2026-05-04: 1 contribution</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.337662;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.306522;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="595" y="40" width="11" height="11" rx="2"><title>2026-05-05: 0 contributions</title></rect>
-    <rect class="cell level-0" x="595" y="55" width="11" height="11" rx="2"><title>2026-05-06: 0 contributions</title></rect>
-    <rect class="cell level-0" x="595" y="70" width="11" height="11" rx="2"><title>2026-05-07: 0 contributions</title></rect>
-    <rect class="cell level-0" x="595" y="85" width="11" height="11" rx="2"><title>2026-05-08: 0 contributions</title></rect>
-    <rect class="cell level-0" x="595" y="100" width="11" height="11" rx="2"><title>2026-05-09: 0 contributions</title></rect>
-    <rect class="cell level-0" x="610" y="10" width="11" height="11" rx="2"><title>2026-05-10: 0 contributions</title></rect>
-    <rect class="cell level-0" x="610" y="25" width="11" height="11" rx="2"><title>2026-05-11: 0 contributions</title></rect>
-    <rect class="cell level-0" x="610" y="40" width="11" height="11" rx="2"><title>2026-05-12: 0 contributions</title></rect>
-    <rect class="cell level-0" x="610" y="55" width="11" height="11" rx="2"><title>2026-05-13: 0 contributions</title></rect>
-    <rect class="cell level-0" x="610" y="70" width="11" height="11" rx="2"><title>2026-05-14: 0 contributions</title></rect>
-    <rect class="cell level-0" x="610" y="85" width="11" height="11" rx="2"><title>2026-05-15: 0 contributions</title></rect>
-    <rect class="cell level-0" x="610" y="100" width="11" height="11" rx="2"><title>2026-05-16: 0 contributions</title></rect>
-    <rect class="cell level-0" x="625" y="10" width="11" height="11" rx="2"><title>2026-05-17: 0 contributions</title></rect>
-    <rect class="cell level-0" x="625" y="25" width="11" height="11" rx="2"><title>2026-05-18: 0 contributions</title></rect>
-    <rect class="cell level-0" x="625" y="40" width="11" height="11" rx="2"><title>2026-05-19: 0 contributions</title></rect>
-    <rect class="cell level-0" x="625" y="55" width="11" height="11" rx="2"><title>2026-05-20: 0 contributions</title></rect>
-    <rect class="cell level-0" x="625" y="70" width="11" height="11" rx="2"><title>2026-05-21: 0 contributions</title></rect>
-    <rect class="cell level-0" x="625" y="85" width="11" height="11" rx="2"><title>2026-05-22: 0 contributions</title></rect>
-    <rect class="cell level-0" x="625" y="100" width="11" height="11" rx="2"><title>2026-05-23: 0 contributions</title></rect>
-    <rect class="cell level-0" x="640" y="10" width="11" height="11" rx="2"><title>2026-05-24: 0 contributions</title></rect>
-    <rect class="cell level-0" x="640" y="25" width="11" height="11" rx="2"><title>2026-05-25: 0 contributions</title></rect>
-    <rect class="cell level-0" x="640" y="40" width="11" height="11" rx="2"><title>2026-05-26: 0 contributions</title></rect>
-    <rect class="cell level-0" x="640" y="55" width="11" height="11" rx="2"><title>2026-05-27: 0 contributions</title></rect>
-    <rect class="cell level-0" x="640" y="70" width="11" height="11" rx="2"><title>2026-05-28: 0 contributions</title></rect>
-    <rect class="cell level-0" x="640" y="85" width="11" height="11" rx="2"><title>2026-05-29: 0 contributions</title></rect>
-    <rect class="cell level-0" x="640" y="100" width="11" height="11" rx="2"><title>2026-05-30: 0 contributions</title></rect>
-    <rect class="cell level-0" x="655" y="10" width="11" height="11" rx="2"><title>2026-05-31: 0 contributions</title></rect>
-    <rect class="cell level-0" x="655" y="25" width="11" height="11" rx="2"><title>2026-06-01: 0 contributions</title></rect>
-    <rect class="cell level-0" x="655" y="40" width="11" height="11" rx="2"><title>2026-06-02: 0 contributions</title></rect>
-    <rect class="cell level-0" x="655" y="55" width="11" height="11" rx="2"><title>2026-06-03: 0 contributions</title></rect>
-    <rect class="cell level-0" x="655" y="70" width="11" height="11" rx="2"><title>2026-06-04: 0 contributions</title></rect>
-    <rect class="cell level-0" x="655" y="85" width="11" height="11" rx="2"><title>2026-06-05: 0 contributions</title></rect>
-    <rect class="cell level-0" x="655" y="100" width="11" height="11" rx="2"><title>2026-06-06: 0 contributions</title></rect>
-    <rect class="cell level-0" x="670" y="10" width="11" height="11" rx="2"><title>2026-06-07: 0 contributions</title></rect>
-    <rect class="cell level-0" x="670" y="25" width="11" height="11" rx="2"><title>2026-06-08: 0 contributions</title></rect>
-    <rect class="cell level-0" x="670" y="40" width="11" height="11" rx="2"><title>2026-06-09: 0 contributions</title></rect>
-    <rect class="cell level-0" x="670" y="55" width="11" height="11" rx="2"><title>2026-06-10: 0 contributions</title></rect>
-    <rect class="cell level-0" x="670" y="70" width="11" height="11" rx="2"><title>2026-06-11: 0 contributions</title></rect>
-    <rect class="cell level-0" x="670" y="85" width="11" height="11" rx="2"><title>2026-06-12: 0 contributions</title></rect>
-    <rect class="cell level-0" x="670" y="100" width="11" height="11" rx="2"><title>2026-06-13: 0 contributions</title></rect>
-    <rect class="cell level-0" x="685" y="10" width="11" height="11" rx="2"><title>2026-06-14: 0 contributions</title></rect>
-    <rect class="cell level-0" x="685" y="25" width="11" height="11" rx="2"><title>2026-06-15: 0 contributions</title></rect>
-    <rect class="cell level-0" x="685" y="40" width="11" height="11" rx="2"><title>2026-06-16: 0 contributions</title></rect>
-    <rect class="cell level-0" x="685" y="55" width="11" height="11" rx="2"><title>2026-06-17: 0 contributions</title></rect>
-    <rect class="cell level-0" x="685" y="70" width="11" height="11" rx="2"><title>2026-06-18: 0 contributions</title></rect>
-    <rect class="cell level-0" x="685" y="85" width="11" height="11" rx="2"><title>2026-06-19: 0 contributions</title></rect>
-    <rect class="cell level-0" x="685" y="100" width="11" height="11" rx="2"><title>2026-06-20: 0 contributions</title></rect>
-    <rect class="cell level-0" x="700" y="10" width="11" height="11" rx="2"><title>2026-06-21: 0 contributions</title></rect>
-    <rect class="cell level-0" x="700" y="25" width="11" height="11" rx="2"><title>2026-06-22: 0 contributions</title></rect>
-    <rect class="cell level-0" x="700" y="40" width="11" height="11" rx="2"><title>2026-06-23: 0 contributions</title></rect>
-    <rect class="cell level-0" x="700" y="55" width="11" height="11" rx="2"><title>2026-06-24: 0 contributions</title></rect>
-    <rect class="cell level-0" x="700" y="70" width="11" height="11" rx="2"><title>2026-06-25: 0 contributions</title></rect>
-    <rect class="cell level-0" x="700" y="85" width="11" height="11" rx="2"><title>2026-06-26: 0 contributions</title></rect>
-    <rect class="cell level-0" x="700" y="100" width="11" height="11" rx="2"><title>2026-06-27: 0 contributions</title></rect>
-    <rect class="cell level-0" x="715" y="10" width="11" height="11" rx="2"><title>2026-06-28: 0 contributions</title></rect>
-    <rect class="cell level-0" x="715" y="25" width="11" height="11" rx="2"><title>2026-06-29: 0 contributions</title></rect>
-    <rect class="cell level-0" x="715" y="40" width="11" height="11" rx="2"><title>2026-06-30: 0 contributions</title></rect>
-    <rect class="cell level-0" x="715" y="55" width="11" height="11" rx="2"><title>2026-07-01: 0 contributions</title></rect>
-    <rect class="cell level-0" x="715" y="70" width="11" height="11" rx="2"><title>2026-07-02: 0 contributions</title></rect>
-    <rect class="cell level-0" x="715" y="85" width="11" height="11" rx="2"><title>2026-07-03: 0 contributions</title></rect>
-    <rect class="cell level-0" x="715" y="100" width="11" height="11" rx="2"><title>2026-07-04: 0 contributions</title></rect>
-    <rect class="cell level-0" x="730" y="10" width="11" height="11" rx="2"><title>2026-07-05: 0 contributions</title></rect>
-    <rect class="cell level-0" x="730" y="25" width="11" height="11" rx="2"><title>2026-07-06: 0 contributions</title></rect>
-    <rect class="cell level-0" x="730" y="40" width="11" height="11" rx="2"><title>2026-07-07: 0 contributions</title></rect>
-    <rect class="cell level-0" x="730" y="55" width="11" height="11" rx="2"><title>2026-07-08: 0 contributions</title></rect>
-    <rect class="cell level-0" x="730" y="70" width="11" height="11" rx="2"><title>2026-07-09: 0 contributions</title></rect>
-    <rect class="cell level-0" x="730" y="85" width="11" height="11" rx="2"><title>2026-07-10: 0 contributions</title></rect>
-    <rect class="cell level-0" x="730" y="100" width="11" height="11" rx="2"><title>2026-07-11: 0 contributions</title></rect>
-    <rect class="cell level-0" x="745" y="10" width="11" height="11" rx="2"><title>2026-07-12: 0 contributions</title></rect>
-    <rect class="cell level-0" x="745" y="25" width="11" height="11" rx="2"><title>2026-07-13: 0 contributions</title></rect>
-    <rect class="cell level-0" x="745" y="40" width="11" height="11" rx="2"><title>2026-07-14: 0 contributions</title></rect>
-    <rect class="cell level-0" x="745" y="55" width="11" height="11" rx="2"><title>2026-07-15: 0 contributions</title></rect>
-    <rect class="cell level-0" x="745" y="70" width="11" height="11" rx="2"><title>2026-07-16: 0 contributions</title></rect>
-    <rect class="cell level-0" x="745" y="85" width="11" height="11" rx="2"><title>2026-07-17: 0 contributions</title></rect>
-    <rect class="cell level-0" x="745" y="100" width="11" height="11" rx="2"><title>2026-07-18: 0 contributions</title></rect>
-    <rect class="cell level-0" x="760" y="10" width="11" height="11" rx="2"><title>2026-07-19: 0 contributions</title></rect>
-    <rect class="cell level-0" x="760" y="25" width="11" height="11" rx="2"><title>2026-07-20: 0 contributions</title></rect>
-    <rect class="cell level-0" x="760" y="40" width="11" height="11" rx="2"><title>2026-07-21: 0 contributions</title></rect>
-    <rect class="cell level-0" x="760" y="55" width="11" height="11" rx="2"><title>2026-07-22: 0 contributions</title></rect>
-    <rect class="cell level-0" x="760" y="70" width="11" height="11" rx="2"><title>2026-07-23: 0 contributions</title></rect>
-    <rect class="cell level-0" x="760" y="85" width="11" height="11" rx="2"><title>2026-07-24: 0 contributions</title></rect>
-    <rect class="cell level-0" x="760" y="100" width="11" height="11" rx="2"><title>2026-07-25: 0 contributions</title></rect>
-    <rect class="cell level-0" x="775" y="10" width="11" height="11" rx="2"><title>2026-07-26: 0 contributions</title></rect>
-    <rect class="cell level-0" x="775" y="25" width="11" height="11" rx="2"><title>2026-07-27: 0 contributions</title></rect>
-    <rect class="cell level-0" x="775" y="40" width="11" height="11" rx="2"><title>2026-07-28: 0 contributions</title></rect>
-    <rect class="cell level-0" x="775" y="55" width="11" height="11" rx="2"><title>2026-07-29: 0 contributions</title></rect>
-    <rect class="cell level-0" x="775" y="70" width="11" height="11" rx="2"><title>2026-07-30: 0 contributions</title></rect>
-    <rect class="cell level-0" x="775" y="85" width="11" height="11" rx="2"><title>2026-07-31: 0 contributions</title></rect>
-    <rect class="cell level-0" x="775" y="100" width="11" height="11" rx="2"><title>2026-08-01: 0 contributions</title></rect>
-    <rect class="cell level-0" x="790" y="10" width="11" height="11" rx="2"><title>2026-08-02: 0 contributions</title></rect>
-    <rect class="cell level-0" x="790" y="25" width="11" height="11" rx="2"><title>2026-08-03: 0 contributions</title></rect>
-    <rect class="cell level-0" x="790" y="40" width="11" height="11" rx="2"><title>2026-08-04: 0 contributions</title></rect>
-    <rect class="cell level-0" x="790" y="55" width="11" height="11" rx="2"><title>2026-08-05: 0 contributions</title></rect>
-    <rect class="cell level-0" x="790" y="70" width="11" height="11" rx="2"><title>2026-08-06: 0 contributions</title></rect>
-    <rect class="cell level-0" x="790" y="85" width="11" height="11" rx="2"><title>2026-08-07: 0 contributions</title></rect>
-    <rect class="cell level-0" x="790" y="100" width="11" height="11" rx="2"><title>2026-08-08: 0 contributions</title></rect>
-    <rect class="cell level-0" x="805" y="10" width="11" height="11" rx="2"><title>2026-08-09: 0 contributions</title></rect>
-    <rect class="cell level-0" x="805" y="25" width="11" height="11" rx="2"><title>2026-08-10: 0 contributions</title></rect>
-    <rect class="cell level-0" x="805" y="40" width="11" height="11" rx="2"><title>2026-08-11: 0 contributions</title></rect>
-    <rect class="cell level-0" x="805" y="55" width="11" height="11" rx="2"><title>2026-08-12: 0 contributions</title></rect>
-    <rect class="cell level-0" x="805" y="70" width="11" height="11" rx="2"><title>2026-08-13: 0 contributions</title></rect>
-    <rect class="cell level-0" x="805" y="85" width="11" height="11" rx="2"><title>2026-08-14: 0 contributions</title></rect>
-    <rect class="cell level-0" x="805" y="100" width="11" height="11" rx="2"><title>2026-08-15: 0 contributions</title></rect>
-    <rect class="cell level-0" x="820" y="10" width="11" height="11" rx="2"><title>2026-08-16: 0 contributions</title></rect>
-    <rect class="cell level-0" x="820" y="25" width="11" height="11" rx="2"><title>2026-08-17: 0 contributions</title></rect>
-    <rect class="cell level-0" x="820" y="40" width="11" height="11" rx="2"><title>2026-08-18: 0 contributions</title></rect>
-    <rect class="cell level-0" x="820" y="55" width="11" height="11" rx="2"><title>2026-08-19: 0 contributions</title></rect>
-    <rect class="cell level-0" x="820" y="70" width="11" height="11" rx="2"><title>2026-08-20: 0 contributions</title></rect>
-    <rect class="cell level-0" x="820" y="85" width="11" height="11" rx="2"><title>2026-08-21: 0 contributions</title></rect>
-    <rect class="cell level-0" x="820" y="100" width="11" height="11" rx="2"><title>2026-08-22: 0 contributions</title></rect>
-    <rect class="cell level-0" x="835" y="10" width="11" height="11" rx="2"><title>2026-08-23: 0 contributions</title></rect>
-    <rect class="cell level-0" x="835" y="25" width="11" height="11" rx="2"><title>2026-08-24: 0 contributions</title></rect>
-    <rect class="cell level-0" x="835" y="40" width="11" height="11" rx="2"><title>2026-08-25: 0 contributions</title></rect>
-    <rect class="cell level-0" x="835" y="55" width="11" height="11" rx="2"><title>2026-08-26: 0 contributions</title></rect>
-    <rect class="cell level-0" x="835" y="70" width="11" height="11" rx="2"><title>2026-08-27: 0 contributions</title></rect>
-    <rect class="cell level-2" x="835" y="85" width="11" height="11" rx="2">
+    <rect class="cell level-0" x="580" y="40" width="11" height="11" rx="2"><title>2026-05-05: 0 contributions</title></rect>
+    <rect class="cell level-0" x="580" y="55" width="11" height="11" rx="2"><title>2026-05-06: 0 contributions</title></rect>
+    <rect class="cell level-0" x="580" y="70" width="11" height="11" rx="2"><title>2026-05-07: 0 contributions</title></rect>
+    <rect class="cell level-0" x="580" y="85" width="11" height="11" rx="2"><title>2026-05-08: 0 contributions</title></rect>
+    <rect class="cell level-0" x="580" y="100" width="11" height="11" rx="2"><title>2026-05-09: 0 contributions</title></rect>
+    <rect class="cell level-0" x="595" y="10" width="11" height="11" rx="2"><title>2026-05-10: 0 contributions</title></rect>
+    <rect class="cell level-0" x="595" y="25" width="11" height="11" rx="2"><title>2026-05-11: 0 contributions</title></rect>
+    <rect class="cell level-0" x="595" y="40" width="11" height="11" rx="2"><title>2026-05-12: 0 contributions</title></rect>
+    <rect class="cell level-0" x="595" y="55" width="11" height="11" rx="2"><title>2026-05-13: 0 contributions</title></rect>
+    <rect class="cell level-0" x="595" y="70" width="11" height="11" rx="2"><title>2026-05-14: 0 contributions</title></rect>
+    <rect class="cell level-0" x="595" y="85" width="11" height="11" rx="2"><title>2026-05-15: 0 contributions</title></rect>
+    <rect class="cell level-0" x="595" y="100" width="11" height="11" rx="2"><title>2026-05-16: 0 contributions</title></rect>
+    <rect class="cell level-0" x="610" y="10" width="11" height="11" rx="2"><title>2026-05-17: 0 contributions</title></rect>
+    <rect class="cell level-0" x="610" y="25" width="11" height="11" rx="2"><title>2026-05-18: 0 contributions</title></rect>
+    <rect class="cell level-0" x="610" y="40" width="11" height="11" rx="2"><title>2026-05-19: 0 contributions</title></rect>
+    <rect class="cell level-0" x="610" y="55" width="11" height="11" rx="2"><title>2026-05-20: 0 contributions</title></rect>
+    <rect class="cell level-0" x="610" y="70" width="11" height="11" rx="2"><title>2026-05-21: 0 contributions</title></rect>
+    <rect class="cell level-0" x="610" y="85" width="11" height="11" rx="2"><title>2026-05-22: 0 contributions</title></rect>
+    <rect class="cell level-0" x="610" y="100" width="11" height="11" rx="2"><title>2026-05-23: 0 contributions</title></rect>
+    <rect class="cell level-0" x="625" y="10" width="11" height="11" rx="2"><title>2026-05-24: 0 contributions</title></rect>
+    <rect class="cell level-0" x="625" y="25" width="11" height="11" rx="2"><title>2026-05-25: 0 contributions</title></rect>
+    <rect class="cell level-0" x="625" y="40" width="11" height="11" rx="2"><title>2026-05-26: 0 contributions</title></rect>
+    <rect class="cell level-0" x="625" y="55" width="11" height="11" rx="2"><title>2026-05-27: 0 contributions</title></rect>
+    <rect class="cell level-0" x="625" y="70" width="11" height="11" rx="2"><title>2026-05-28: 0 contributions</title></rect>
+    <rect class="cell level-0" x="625" y="85" width="11" height="11" rx="2"><title>2026-05-29: 0 contributions</title></rect>
+    <rect class="cell level-0" x="625" y="100" width="11" height="11" rx="2"><title>2026-05-30: 0 contributions</title></rect>
+    <rect class="cell level-0" x="640" y="10" width="11" height="11" rx="2"><title>2026-05-31: 0 contributions</title></rect>
+    <rect class="cell level-0" x="640" y="25" width="11" height="11" rx="2"><title>2026-06-01: 0 contributions</title></rect>
+    <rect class="cell level-0" x="640" y="40" width="11" height="11" rx="2"><title>2026-06-02: 0 contributions</title></rect>
+    <rect class="cell level-0" x="640" y="55" width="11" height="11" rx="2"><title>2026-06-03: 0 contributions</title></rect>
+    <rect class="cell level-0" x="640" y="70" width="11" height="11" rx="2"><title>2026-06-04: 0 contributions</title></rect>
+    <rect class="cell level-0" x="640" y="85" width="11" height="11" rx="2"><title>2026-06-05: 0 contributions</title></rect>
+    <rect class="cell level-0" x="640" y="100" width="11" height="11" rx="2"><title>2026-06-06: 0 contributions</title></rect>
+    <rect class="cell level-0" x="655" y="10" width="11" height="11" rx="2"><title>2026-06-07: 0 contributions</title></rect>
+    <rect class="cell level-0" x="655" y="25" width="11" height="11" rx="2"><title>2026-06-08: 0 contributions</title></rect>
+    <rect class="cell level-0" x="655" y="40" width="11" height="11" rx="2"><title>2026-06-09: 0 contributions</title></rect>
+    <rect class="cell level-0" x="655" y="55" width="11" height="11" rx="2"><title>2026-06-10: 0 contributions</title></rect>
+    <rect class="cell level-0" x="655" y="70" width="11" height="11" rx="2"><title>2026-06-11: 0 contributions</title></rect>
+    <rect class="cell level-0" x="655" y="85" width="11" height="11" rx="2"><title>2026-06-12: 0 contributions</title></rect>
+    <rect class="cell level-0" x="655" y="100" width="11" height="11" rx="2"><title>2026-06-13: 0 contributions</title></rect>
+    <rect class="cell level-0" x="670" y="10" width="11" height="11" rx="2"><title>2026-06-14: 0 contributions</title></rect>
+    <rect class="cell level-0" x="670" y="25" width="11" height="11" rx="2"><title>2026-06-15: 0 contributions</title></rect>
+    <rect class="cell level-0" x="670" y="40" width="11" height="11" rx="2"><title>2026-06-16: 0 contributions</title></rect>
+    <rect class="cell level-0" x="670" y="55" width="11" height="11" rx="2"><title>2026-06-17: 0 contributions</title></rect>
+    <rect class="cell level-0" x="670" y="70" width="11" height="11" rx="2"><title>2026-06-18: 0 contributions</title></rect>
+    <rect class="cell level-0" x="670" y="85" width="11" height="11" rx="2"><title>2026-06-19: 0 contributions</title></rect>
+    <rect class="cell level-0" x="670" y="100" width="11" height="11" rx="2"><title>2026-06-20: 0 contributions</title></rect>
+    <rect class="cell level-0" x="685" y="10" width="11" height="11" rx="2"><title>2026-06-21: 0 contributions</title></rect>
+    <rect class="cell level-0" x="685" y="25" width="11" height="11" rx="2"><title>2026-06-22: 0 contributions</title></rect>
+    <rect class="cell level-0" x="685" y="40" width="11" height="11" rx="2"><title>2026-06-23: 0 contributions</title></rect>
+    <rect class="cell level-0" x="685" y="55" width="11" height="11" rx="2"><title>2026-06-24: 0 contributions</title></rect>
+    <rect class="cell level-0" x="685" y="70" width="11" height="11" rx="2"><title>2026-06-25: 0 contributions</title></rect>
+    <rect class="cell level-0" x="685" y="85" width="11" height="11" rx="2"><title>2026-06-26: 0 contributions</title></rect>
+    <rect class="cell level-0" x="685" y="100" width="11" height="11" rx="2"><title>2026-06-27: 0 contributions</title></rect>
+    <rect class="cell level-0" x="700" y="10" width="11" height="11" rx="2"><title>2026-06-28: 0 contributions</title></rect>
+    <rect class="cell level-0" x="700" y="25" width="11" height="11" rx="2"><title>2026-06-29: 0 contributions</title></rect>
+    <rect class="cell level-0" x="700" y="40" width="11" height="11" rx="2"><title>2026-06-30: 0 contributions</title></rect>
+    <rect class="cell level-0" x="700" y="55" width="11" height="11" rx="2"><title>2026-07-01: 0 contributions</title></rect>
+    <rect class="cell level-0" x="700" y="70" width="11" height="11" rx="2"><title>2026-07-02: 0 contributions</title></rect>
+    <rect class="cell level-0" x="700" y="85" width="11" height="11" rx="2"><title>2026-07-03: 0 contributions</title></rect>
+    <rect class="cell level-0" x="700" y="100" width="11" height="11" rx="2"><title>2026-07-04: 0 contributions</title></rect>
+    <rect class="cell level-0" x="715" y="10" width="11" height="11" rx="2"><title>2026-07-05: 0 contributions</title></rect>
+    <rect class="cell level-0" x="715" y="25" width="11" height="11" rx="2"><title>2026-07-06: 0 contributions</title></rect>
+    <rect class="cell level-0" x="715" y="40" width="11" height="11" rx="2"><title>2026-07-07: 0 contributions</title></rect>
+    <rect class="cell level-0" x="715" y="55" width="11" height="11" rx="2"><title>2026-07-08: 0 contributions</title></rect>
+    <rect class="cell level-0" x="715" y="70" width="11" height="11" rx="2"><title>2026-07-09: 0 contributions</title></rect>
+    <rect class="cell level-0" x="715" y="85" width="11" height="11" rx="2"><title>2026-07-10: 0 contributions</title></rect>
+    <rect class="cell level-0" x="715" y="100" width="11" height="11" rx="2"><title>2026-07-11: 0 contributions</title></rect>
+    <rect class="cell level-0" x="730" y="10" width="11" height="11" rx="2"><title>2026-07-12: 0 contributions</title></rect>
+    <rect class="cell level-0" x="730" y="25" width="11" height="11" rx="2"><title>2026-07-13: 0 contributions</title></rect>
+    <rect class="cell level-0" x="730" y="40" width="11" height="11" rx="2"><title>2026-07-14: 0 contributions</title></rect>
+    <rect class="cell level-0" x="730" y="55" width="11" height="11" rx="2"><title>2026-07-15: 0 contributions</title></rect>
+    <rect class="cell level-0" x="730" y="70" width="11" height="11" rx="2"><title>2026-07-16: 0 contributions</title></rect>
+    <rect class="cell level-0" x="730" y="85" width="11" height="11" rx="2"><title>2026-07-17: 0 contributions</title></rect>
+    <rect class="cell level-0" x="730" y="100" width="11" height="11" rx="2"><title>2026-07-18: 0 contributions</title></rect>
+    <rect class="cell level-0" x="745" y="10" width="11" height="11" rx="2"><title>2026-07-19: 0 contributions</title></rect>
+    <rect class="cell level-0" x="745" y="25" width="11" height="11" rx="2"><title>2026-07-20: 0 contributions</title></rect>
+    <rect class="cell level-0" x="745" y="40" width="11" height="11" rx="2"><title>2026-07-21: 0 contributions</title></rect>
+    <rect class="cell level-0" x="745" y="55" width="11" height="11" rx="2"><title>2026-07-22: 0 contributions</title></rect>
+    <rect class="cell level-0" x="745" y="70" width="11" height="11" rx="2"><title>2026-07-23: 0 contributions</title></rect>
+    <rect class="cell level-0" x="745" y="85" width="11" height="11" rx="2"><title>2026-07-24: 0 contributions</title></rect>
+    <rect class="cell level-0" x="745" y="100" width="11" height="11" rx="2"><title>2026-07-25: 0 contributions</title></rect>
+    <rect class="cell level-0" x="760" y="10" width="11" height="11" rx="2"><title>2026-07-26: 0 contributions</title></rect>
+    <rect class="cell level-0" x="760" y="25" width="11" height="11" rx="2"><title>2026-07-27: 0 contributions</title></rect>
+    <rect class="cell level-0" x="760" y="40" width="11" height="11" rx="2"><title>2026-07-28: 0 contributions</title></rect>
+    <rect class="cell level-0" x="760" y="55" width="11" height="11" rx="2"><title>2026-07-29: 0 contributions</title></rect>
+    <rect class="cell level-0" x="760" y="70" width="11" height="11" rx="2"><title>2026-07-30: 0 contributions</title></rect>
+    <rect class="cell level-0" x="760" y="85" width="11" height="11" rx="2"><title>2026-07-31: 0 contributions</title></rect>
+    <rect class="cell level-0" x="760" y="100" width="11" height="11" rx="2"><title>2026-08-01: 0 contributions</title></rect>
+    <rect class="cell level-0" x="775" y="10" width="11" height="11" rx="2"><title>2026-08-02: 0 contributions</title></rect>
+    <rect class="cell level-0" x="775" y="25" width="11" height="11" rx="2"><title>2026-08-03: 0 contributions</title></rect>
+    <rect class="cell level-0" x="775" y="40" width="11" height="11" rx="2"><title>2026-08-04: 0 contributions</title></rect>
+    <rect class="cell level-0" x="775" y="55" width="11" height="11" rx="2"><title>2026-08-05: 0 contributions</title></rect>
+    <rect class="cell level-0" x="775" y="70" width="11" height="11" rx="2"><title>2026-08-06: 0 contributions</title></rect>
+    <rect class="cell level-0" x="775" y="85" width="11" height="11" rx="2"><title>2026-08-07: 0 contributions</title></rect>
+    <rect class="cell level-0" x="775" y="100" width="11" height="11" rx="2"><title>2026-08-08: 0 contributions</title></rect>
+    <rect class="cell level-0" x="790" y="10" width="11" height="11" rx="2"><title>2026-08-09: 0 contributions</title></rect>
+    <rect class="cell level-0" x="790" y="25" width="11" height="11" rx="2"><title>2026-08-10: 0 contributions</title></rect>
+    <rect class="cell level-0" x="790" y="40" width="11" height="11" rx="2"><title>2026-08-11: 0 contributions</title></rect>
+    <rect class="cell level-0" x="790" y="55" width="11" height="11" rx="2"><title>2026-08-12: 0 contributions</title></rect>
+    <rect class="cell level-0" x="790" y="70" width="11" height="11" rx="2"><title>2026-08-13: 0 contributions</title></rect>
+    <rect class="cell level-0" x="790" y="85" width="11" height="11" rx="2"><title>2026-08-14: 0 contributions</title></rect>
+    <rect class="cell level-0" x="790" y="100" width="11" height="11" rx="2"><title>2026-08-15: 0 contributions</title></rect>
+    <rect class="cell level-0" x="805" y="10" width="11" height="11" rx="2"><title>2026-08-16: 0 contributions</title></rect>
+    <rect class="cell level-0" x="805" y="25" width="11" height="11" rx="2"><title>2026-08-17: 0 contributions</title></rect>
+    <rect class="cell level-0" x="805" y="40" width="11" height="11" rx="2"><title>2026-08-18: 0 contributions</title></rect>
+    <rect class="cell level-0" x="805" y="55" width="11" height="11" rx="2"><title>2026-08-19: 0 contributions</title></rect>
+    <rect class="cell level-0" x="805" y="70" width="11" height="11" rx="2"><title>2026-08-20: 0 contributions</title></rect>
+    <rect class="cell level-0" x="805" y="85" width="11" height="11" rx="2"><title>2026-08-21: 0 contributions</title></rect>
+    <rect class="cell level-0" x="805" y="100" width="11" height="11" rx="2"><title>2026-08-22: 0 contributions</title></rect>
+    <rect class="cell level-0" x="820" y="10" width="11" height="11" rx="2"><title>2026-08-23: 0 contributions</title></rect>
+    <rect class="cell level-0" x="820" y="25" width="11" height="11" rx="2"><title>2026-08-24: 0 contributions</title></rect>
+    <rect class="cell level-0" x="820" y="40" width="11" height="11" rx="2"><title>2026-08-25: 0 contributions</title></rect>
+    <rect class="cell level-0" x="820" y="55" width="11" height="11" rx="2"><title>2026-08-26: 0 contributions</title></rect>
+    <rect class="cell level-0" x="820" y="70" width="11" height="11" rx="2"><title>2026-08-27: 0 contributions</title></rect>
+    <rect class="cell level-2" x="820" y="85" width="11" height="11" rx="2">
       <title>2026-08-28: 11 contributions</title>
-      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.536797;1" calcMode="discrete" dur="20790ms" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.063043;1" calcMode="discrete" dur="20700ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-0" x="835" y="100" width="11" height="11" rx="2"><title>2026-08-29: 0 contributions</title></rect>
+    <rect class="cell level-0" x="820" y="100" width="11" height="11" rx="2"><title>2026-08-29: 0 contributions</title></rect>
+    <rect class="cell level-0" x="835" y="10" width="11" height="11" rx="2"><title>2026-08-30: 0 contributions</title></rect>
+    <rect class="cell level-0" x="835" y="25" width="11" height="11" rx="2"><title>Outside GitHub&apos;s contribution range</title></rect>
+    <rect class="cell level-0" x="835" y="40" width="11" height="11" rx="2"><title>Outside GitHub&apos;s contribution range</title></rect>
+    <rect class="cell level-0" x="835" y="55" width="11" height="11" rx="2"><title>Outside GitHub&apos;s contribution range</title></rect>
+    <rect class="cell level-0" x="835" y="70" width="11" height="11" rx="2"><title>Outside GitHub&apos;s contribution range</title></rect>
+    <rect class="cell level-0" x="835" y="85" width="11" height="11" rx="2"><title>Outside GitHub&apos;s contribution range</title></rect>
+    <rect class="cell level-0" x="835" y="100" width="11" height="11" rx="2"><title>Outside GitHub&apos;s contribution range</title></rect>
   </g>
-  <path d="M240.5 150.5 L240.5 135.5 L240.5 120.5 L240.5 105.5 L240.5 90.5 L240.5 75.5 L225.5 75.5 L225.5 60.5 L240.5 60.5 L240.5 45.5 L225.5 45.5 L210.5 45.5 L210.5 30.5 L225.5 30.5 L240.5 30.5 L255.5 30.5 L255.5 45.5 L255.5 60.5 L255.5 75.5 L255.5 90.5 L255.5 105.5 L270.5 105.5 L270.5 90.5 L270.5 75.5 L270.5 60.5 L270.5 45.5 L270.5 30.5 L285.5 30.5 L285.5 45.5 L285.5 60.5 L285.5 75.5 L285.5 90.5 L285.5 105.5 L300.5 105.5 L300.5 90.5 L300.5 75.5 L300.5 60.5 L300.5 45.5 L300.5 30.5 L315.5 30.5 L315.5 45.5 L315.5 60.5 L315.5 75.5 L315.5 90.5 L315.5 105.5 L330.5 105.5 L330.5 90.5 L330.5 75.5 L330.5 60.5 L330.5 45.5 L330.5 30.5 L345.5 30.5 L345.5 45.5 L345.5 60.5 L345.5 75.5 L345.5 90.5 L345.5 105.5 L360.5 105.5 L360.5 90.5 L360.5 75.5 L360.5 60.5 L360.5 45.5 L360.5 30.5 L375.5 30.5 L375.5 45.5 L375.5 60.5 L375.5 75.5 L375.5 90.5 L375.5 105.5 L390.5 105.5 L390.5 90.5 L390.5 75.5 L390.5 60.5 L390.5 45.5 L390.5 30.5 L405.5 30.5 L405.5 45.5 L405.5 60.5 L405.5 75.5 L405.5 90.5 L405.5 105.5 L420.5 105.5 L420.5 90.5 L420.5 75.5 L420.5 60.5 L420.5 45.5 L420.5 30.5 L435.5 30.5 L435.5 45.5 L435.5 60.5 L435.5 75.5 L435.5 90.5 L435.5 105.5 L450.5 105.5 L450.5 90.5 L450.5 75.5 L450.5 60.5 L450.5 45.5 L450.5 30.5 L465.5 30.5 L465.5 45.5 L465.5 60.5 L465.5 75.5 L465.5 90.5 L465.5 105.5 L480.5 105.5 L480.5 90.5 L480.5 75.5 L480.5 60.5 L480.5 45.5 L480.5 30.5 L495.5 30.5 L495.5 45.5 L495.5 60.5 L495.5 75.5 L495.5 90.5 L495.5 105.5 L510.5 105.5 L510.5 90.5 L510.5 75.5 L510.5 60.5 L510.5 45.5 L510.5 30.5 L525.5 30.5 L525.5 45.5 L525.5 60.5 L525.5 75.5 L525.5 90.5 L525.5 105.5 L540.5 105.5 L540.5 90.5 L540.5 75.5 L540.5 60.5 L540.5 45.5 L540.5 30.5 L555.5 30.5 L555.5 45.5 L555.5 60.5 L555.5 75.5 L555.5 90.5 L555.5 105.5 L570.5 105.5 L570.5 90.5 L570.5 75.5 L570.5 60.5 L570.5 45.5 L570.5 30.5 L585.5 30.5 L585.5 45.5 L585.5 60.5 L585.5 75.5 L585.5 90.5 L585.5 105.5 L600.5 105.5 L600.5 90.5 L600.5 75.5 L600.5 60.5 L600.5 45.5 L600.5 30.5 L615.5 30.5 L615.5 45.5 L615.5 60.5 L615.5 75.5 L615.5 90.5 L615.5 105.5 L630.5 105.5 L630.5 90.5 L630.5 75.5 L630.5 60.5 L630.5 45.5 L630.5 30.5 L645.5 30.5 L645.5 45.5 L645.5 60.5 L645.5 75.5 L645.5 90.5 L645.5 105.5 L660.5 105.5 L660.5 90.5 L660.5 75.5 L660.5 60.5 L660.5 45.5 L660.5 30.5 L675.5 30.5 L675.5 45.5 L675.5 60.5 L675.5 75.5 L675.5 90.5 L675.5 105.5 L690.5 105.5 L690.5 90.5 L690.5 75.5 L690.5 60.5 L690.5 45.5 L690.5 30.5 L705.5 30.5 L705.5 45.5 L705.5 60.5 L705.5 75.5 L705.5 90.5 L705.5 105.5 L720.5 105.5 L720.5 90.5 L720.5 75.5 L720.5 60.5 L720.5 45.5 L720.5 30.5 L735.5 30.5 L735.5 45.5 L735.5 60.5 L735.5 75.5 L735.5 90.5 L735.5 105.5 L750.5 105.5 L750.5 90.5 L750.5 75.5 L750.5 60.5 L750.5 45.5 L750.5 30.5 L765.5 30.5 L765.5 45.5 L765.5 60.5 L765.5 75.5 L765.5 90.5 L765.5 105.5 L780.5 105.5 L780.5 90.5 L780.5 75.5 L780.5 60.5 L780.5 45.5 L780.5 30.5 L795.5 30.5 L795.5 45.5 L795.5 60.5 L795.5 75.5 L795.5 90.5 L795.5 105.5 L810.5 105.5 L810.5 90.5 L810.5 75.5 L810.5 60.5 L810.5 45.5 L810.5 30.5 L825.5 30.5 L825.5 45.5 L825.5 60.5 L825.5 75.5 L825.5 90.5 L825.5 105.5 L840.5 105.5 L840.5 90.5 L840.5 75.5 L840.5 60.5 L840.5 45.5 L840.5 30.5 L840.5 15.5 L825.5 15.5 L810.5 15.5 L795.5 15.5 L780.5 15.5 L765.5 15.5 L750.5 15.5 L735.5 15.5 L720.5 15.5 L705.5 15.5 L690.5 15.5 L675.5 15.5 L660.5 15.5 L645.5 15.5 L630.5 15.5 L615.5 15.5 L600.5 15.5 L585.5 15.5 L570.5 15.5 L555.5 15.5 L540.5 15.5 L525.5 15.5 L510.5 15.5 L495.5 15.5 L480.5 15.5 L465.5 15.5 L450.5 15.5 L435.5 15.5 L420.5 15.5 L405.5 15.5 L390.5 15.5 L375.5 15.5 L360.5 15.5 L345.5 15.5 L330.5 15.5 L315.5 15.5 L300.5 15.5 L285.5 15.5 L270.5 15.5 L255.5 15.5 L240.5 15.5 L225.5 15.5 L210.5 15.5 L195.5 15.5 L180.5 15.5 L165.5 15.5 L150.5 15.5 L135.5 15.5 L120.5 15.5 L105.5 15.5 L90.5 15.5 L75.5 15.5 L60.5 15.5 L60.5 30.5 L75.5 30.5 L90.5 30.5 L105.5 30.5 L105.5 45.5 L90.5 45.5 L75.5 45.5 L60.5 45.5 L60.5 60.5 L75.5 60.5 L90.5 60.5 L90.5 75.5 L90.5 90.5 L105.5 90.5 L120.5 90.5 L120.5 75.5 L105.5 75.5 L105.5 60.5 L120.5 60.5 L120.5 45.5 L120.5 30.5 L135.5 30.5 L135.5 45.5 L135.5 60.5 L150.5 60.5 L165.5 60.5 L180.5 60.5 L180.5 45.5 L165.5 45.5 L150.5 45.5 L150.5 30.5 L165.5 30.5 L180.5 30.5 L195.5 30.5 L195.5 45.5 L195.5 60.5 L210.5 60.5 L210.5 75.5 L210.5 90.5 L225.5 90.5 L225.5 105.5 L210.5 105.5 L195.5 105.5 L195.5 90.5 L195.5 75.5 L180.5 75.5 L180.5 90.5 L180.5 105.5 L165.5 105.5 L165.5 90.5 L165.5 75.5 L150.5 75.5 L135.5 75.5 L135.5 90.5 L150.5 90.5 L150.5 105.5 L135.5 105.5 L120.5 105.5 L105.5 105.5 L90.5 105.5 L75.5 105.5 L60.5 105.5 L60.5 90.5 L75.5 90.5 L75.5 75.5 L60.5 75.5 L45.5 75.5 L30.5 75.5 L15.5 75.5 L0.5 75.5 L-14.5 75.5 L-29.5 75.5 L-44.5 75.5 L-59.5 75.5 L-74.5 75.5 L-89.5 75.5 L-104.5 75.5 L-119.5 75.5 L-134.5 75.5 L-149.5 75.5 L-164.5 75.5 L-179.5 75.5 L-194.5 75.5 L-209.5 75.5 L-224.5 75.5 L-239.5 75.5 L-254.5 75.5 L-269.5 75.5 L-284.5 75.5 L-299.5 75.5 L-314.5 75.5 L-329.5 75.5 L-344.5 75.5 L-359.5 75.5 L-374.5 75.5 L-389.5 75.5 L-404.5 75.5 L-419.5 75.5 L-434.5 75.5 L-449.5 75.5 L-464.5 75.5 L-479.5 75.5 L-494.5 75.5 L-509.5 75.5 L-524.5 75.5 L-539.5 75.5 L-554.5 75.5 L-569.5 75.5 L-584.5 75.5 L-599.5 75.5 L-614.5 75.5 L-629.5 75.5 L-644.5 75.5 L-659.5 75.5 L-674.5 75.5 L-689.5 75.5 L-704.5 75.5" fill="none" stroke="var(--snake)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="30 6360" stroke-dashoffset="0">
-    <animate attributeName="stroke-dasharray" values="30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;30 6360;45 6360;45 6360;60 6360;75 6360;90 6360;105 6360;105 6360;105 6360;120 6360;120 6360;120 6360;120 6360;135 6360;150 6360;150 6360;165 6360;180 6360;195 6360;210 6360;225 6360;225 6360;240 6360;255 6360;255 6360;255 6360;270 6360;270 6360;270 6360;270 6360;270 6360;270 6360;270 6360;270 6360;270 6360;270 6360;270 6360;270 6360;270 6360;270 6360;285 6360;285 6360;285 6360;285 6360;285 6360;285 6360;285 6360;285 6360;285 6360;285 6360;285 6360;285 6360;285 6360;300 6360;300 6360;300 6360;300 6360;300 6360;300 6360;300 6360;300 6360;300 6360;300 6360;315 6360;330 6360;345 6360;345 6360;360 6360;360 6360;360 6360;360 6360;375 6360;375 6360;390 6360;405 6360;405 6360;405 6360;405 6360;405 6360;405 6360;420 6360;420 6360;420 6360;420 6360;420 6360;420 6360;435 6360;435 6360;435 6360;435 6360;435 6360;435 6360;450 6360;450 6360;450 6360;450 6360;450 6360;450 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;465 6360;480 6360;480 6360;480 6360;480 6360;480 6360;480 6360;480 6360;480 6360;480 6360;480 6360;480 6360;480 6360;480 6360;480 6360;480 6360;480 6360;480 6360;480 6360;480 6360;480 6360;480 6360;480 6360;480 6360;495 6360;495 6360;510 6360;510 6360;510 6360;510 6360;510 6360;510 6360;510 6360;510 6360;525 6360;540 6360;540 6360;555 6360;555 6360;555 6360;555 6360;555 6360;555 6360;555 6360;555 6360;555 6360;555 6360;555 6360;555 6360;555 6360;555 6360;555 6360;555 6360;555 6360;555 6360;555 6360;555 6360;555 6360;555 6360;555 6360;555 6360;570 6360;570 6360;585 6360;585 6360;585 6360;585 6360;585 6360;585 6360;585 6360;600 6360;600 6360;600 6360;615 6360;615 6360;615 6360;630 6360;645 6360;645 6360;645 6360;645 6360;645 6360;645 6360;645 6360;645 6360;645 6360;645 6360;645 6360;645 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;660 6360;675 6360;675 6360;675 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360;690 6360" keyTimes="0;0.002165;0.004329;0.006494;0.008658;0.010823;0.012987;0.015152;0.017316;0.019481;0.021645;0.02381;0.025974;0.028139;0.030303;0.032468;0.034632;0.036797;0.038961;0.041126;0.04329;0.045455;0.047619;0.049784;0.051948;0.054113;0.056277;0.058442;0.060606;0.062771;0.064935;0.0671;0.069264;0.071429;0.073593;0.075758;0.077922;0.080087;0.082251;0.084416;0.08658;0.088745;0.090909;0.093074;0.095238;0.097403;0.099567;0.101732;0.103896;0.106061;0.108225;0.11039;0.112554;0.114719;0.116883;0.119048;0.121212;0.123377;0.125541;0.127706;0.12987;0.132035;0.134199;0.136364;0.138528;0.140693;0.142857;0.145022;0.147186;0.149351;0.151515;0.15368;0.155844;0.158009;0.160173;0.162338;0.164502;0.166667;0.168831;0.170996;0.17316;0.175325;0.177489;0.179654;0.181818;0.183983;0.186147;0.188312;0.190476;0.192641;0.194805;0.19697;0.199134;0.201299;0.203463;0.205628;0.207792;0.209957;0.212121;0.214286;0.21645;0.218615;0.220779;0.222944;0.225108;0.227273;0.229437;0.231602;0.233766;0.235931;0.238095;0.24026;0.242424;0.244589;0.246753;0.248918;0.251082;0.253247;0.255411;0.257576;0.25974;0.261905;0.264069;0.266234;0.268398;0.270563;0.272727;0.274892;0.277056;0.279221;0.281385;0.28355;0.285714;0.287879;0.290043;0.292208;0.294372;0.296537;0.298701;0.300866;0.30303;0.305195;0.307359;0.309524;0.311688;0.313853;0.316017;0.318182;0.320346;0.322511;0.324675;0.32684;0.329004;0.331169;0.333333;0.335498;0.337662;0.339827;0.341991;0.344156;0.34632;0.348485;0.350649;0.352814;0.354978;0.357143;0.359307;0.361472;0.363636;0.365801;0.367965;0.37013;0.372294;0.374459;0.376623;0.378788;0.380952;0.383117;0.385281;0.387446;0.38961;0.391775;0.393939;0.396104;0.398268;0.400433;0.402597;0.404762;0.406926;0.409091;0.411255;0.41342;0.415584;0.417749;0.419913;0.422078;0.424242;0.426407;0.428571;0.430736;0.4329;0.435065;0.437229;0.439394;0.441558;0.443723;0.445887;0.448052;0.450216;0.452381;0.454545;0.45671;0.458874;0.461039;0.463203;0.465368;0.467532;0.469697;0.471861;0.474026;0.47619;0.478355;0.480519;0.482684;0.484848;0.487013;0.489177;0.491342;0.493506;0.495671;0.497835;0.5;0.502165;0.504329;0.506494;0.508658;0.510823;0.512987;0.515152;0.517316;0.519481;0.521645;0.52381;0.525974;0.528139;0.530303;0.532468;0.534632;0.536797;0.538961;0.541126;0.54329;0.545455;0.547619;0.549784;0.551948;0.554113;0.556277;0.558442;0.560606;0.562771;0.564935;0.5671;0.569264;0.571429;0.573593;0.575758;0.577922;0.580087;0.582251;0.584416;0.58658;0.588745;0.590909;0.593074;0.595238;0.597403;0.599567;0.601732;0.603896;0.606061;0.608225;0.61039;0.612554;0.614719;0.616883;0.619048;0.621212;0.623377;0.625541;0.627706;0.62987;0.632035;0.634199;0.636364;0.638528;0.640693;0.642857;0.645022;0.647186;0.649351;0.651515;0.65368;0.655844;0.658009;0.660173;0.662338;0.664502;0.666667;0.668831;0.670996;0.67316;0.675325;0.677489;0.679654;0.681818;0.683983;0.686147;0.688312;0.690476;0.692641;0.694805;0.69697;0.699134;0.701299;0.703463;0.705628;0.707792;0.709957;0.712121;0.714286;0.71645;0.718615;0.720779;0.722944;0.725108;0.727273;0.729437;0.731602;0.733766;0.735931;0.738095;0.74026;0.742424;0.744589;0.746753;0.748918;0.751082;0.753247;0.755411;0.757576;0.75974;0.761905;0.764069;0.766234;0.768398;0.770563;0.772727;0.774892;0.777056;0.779221;0.781385;0.78355;0.785714;0.787879;0.790043;0.792208;0.794372;0.796537;0.798701;0.800866;0.80303;0.805195;0.807359;0.809524;0.811688;0.813853;0.816017;0.818182;0.820346;0.822511;0.824675;0.82684;0.829004;0.831169;0.833333;0.835498;0.837662;0.839827;0.841991;0.844156;0.84632;0.848485;0.850649;0.852814;0.854978;0.857143;0.859307;0.861472;0.863636;0.865801;0.867965;0.87013;0.872294;0.874459;0.876623;0.878788;0.880952;0.883117;0.885281;0.887446;0.88961;0.891775;0.893939;0.896104;0.898268;0.900433;0.902597;0.904762;0.906926;0.909091;0.911255;0.91342;1" calcMode="linear" dur="20790ms" repeatCount="indefinite"/>
-    <animate attributeName="stroke-dashoffset" values="0;-15;-30;-45;-60;-75;-90;-105;-120;-135;-150;-165;-180;-195;-210;-225;-240;-255;-270;-285;-300;-315;-330;-345;-360;-375;-390;-405;-420;-435;-450;-465;-480;-495;-510;-525;-540;-555;-570;-585;-600;-615;-630;-645;-660;-675;-690;-705;-720;-735;-750;-765;-780;-795;-810;-825;-840;-855;-870;-870;-885;-885;-885;-885;-885;-900;-915;-915;-930;-945;-960;-960;-960;-975;-975;-975;-975;-975;-975;-990;-990;-990;-1005;-1020;-1020;-1035;-1050;-1065;-1080;-1095;-1110;-1125;-1140;-1155;-1170;-1185;-1200;-1215;-1215;-1230;-1245;-1260;-1275;-1290;-1305;-1320;-1335;-1350;-1365;-1380;-1395;-1395;-1410;-1425;-1440;-1455;-1470;-1485;-1500;-1515;-1530;-1530;-1530;-1530;-1545;-1545;-1560;-1575;-1590;-1590;-1605;-1605;-1605;-1620;-1635;-1650;-1665;-1680;-1680;-1695;-1710;-1725;-1740;-1755;-1755;-1770;-1785;-1800;-1815;-1830;-1830;-1845;-1860;-1875;-1890;-1905;-1905;-1920;-1935;-1950;-1965;-1980;-1995;-2010;-2025;-2040;-2055;-2070;-2085;-2100;-2115;-2130;-2145;-2160;-2175;-2190;-2205;-2220;-2235;-2250;-2265;-2280;-2295;-2310;-2325;-2340;-2355;-2370;-2385;-2400;-2415;-2430;-2445;-2460;-2475;-2490;-2505;-2520;-2535;-2550;-2565;-2580;-2595;-2610;-2625;-2640;-2655;-2670;-2685;-2700;-2715;-2730;-2745;-2760;-2775;-2790;-2805;-2820;-2835;-2850;-2865;-2880;-2895;-2910;-2925;-2940;-2955;-2970;-2985;-3000;-3015;-3030;-3045;-3060;-3075;-3090;-3105;-3120;-3135;-3150;-3165;-3180;-3195;-3210;-3225;-3240;-3255;-3270;-3270;-3285;-3300;-3315;-3330;-3345;-3360;-3375;-3390;-3405;-3420;-3435;-3450;-3465;-3480;-3495;-3510;-3525;-3540;-3555;-3570;-3585;-3600;-3600;-3615;-3615;-3630;-3645;-3660;-3675;-3690;-3705;-3720;-3720;-3720;-3735;-3735;-3750;-3765;-3780;-3795;-3810;-3825;-3840;-3855;-3870;-3885;-3900;-3915;-3930;-3945;-3960;-3975;-3990;-4005;-4020;-4035;-4050;-4065;-4080;-4080;-4095;-4095;-4110;-4125;-4140;-4155;-4170;-4185;-4185;-4200;-4215;-4215;-4230;-4245;-4245;-4245;-4260;-4275;-4290;-4305;-4320;-4335;-4350;-4365;-4380;-4395;-4410;-4410;-4425;-4440;-4455;-4470;-4485;-4500;-4515;-4530;-4545;-4560;-4575;-4590;-4605;-4620;-4635;-4650;-4665;-4680;-4695;-4710;-4725;-4740;-4755;-4770;-4785;-4800;-4815;-4830;-4845;-4860;-4875;-4875;-4890;-4905;-4905;-4920;-4935;-4950;-4965;-4980;-4995;-5010;-5025;-5040;-5055;-5070;-5085;-5100;-5115;-5130;-5145;-5160;-5175;-5190;-5205;-5220;-5235;-5250;-5265;-5280;-5295;-5310;-5325;-5340;-5355;-5370;-5385;-5400;-5415;-5430;-5445;-5460;-5475;-5490;-5505;-5520;-5535;-5550;-5565;-5580;-5595;-5610;-5625;-5640;-5655;-5670;-5670" keyTimes="0;0.002165;0.004329;0.006494;0.008658;0.010823;0.012987;0.015152;0.017316;0.019481;0.021645;0.02381;0.025974;0.028139;0.030303;0.032468;0.034632;0.036797;0.038961;0.041126;0.04329;0.045455;0.047619;0.049784;0.051948;0.054113;0.056277;0.058442;0.060606;0.062771;0.064935;0.0671;0.069264;0.071429;0.073593;0.075758;0.077922;0.080087;0.082251;0.084416;0.08658;0.088745;0.090909;0.093074;0.095238;0.097403;0.099567;0.101732;0.103896;0.106061;0.108225;0.11039;0.112554;0.114719;0.116883;0.119048;0.121212;0.123377;0.125541;0.127706;0.12987;0.132035;0.134199;0.136364;0.138528;0.140693;0.142857;0.145022;0.147186;0.149351;0.151515;0.15368;0.155844;0.158009;0.160173;0.162338;0.164502;0.166667;0.168831;0.170996;0.17316;0.175325;0.177489;0.179654;0.181818;0.183983;0.186147;0.188312;0.190476;0.192641;0.194805;0.19697;0.199134;0.201299;0.203463;0.205628;0.207792;0.209957;0.212121;0.214286;0.21645;0.218615;0.220779;0.222944;0.225108;0.227273;0.229437;0.231602;0.233766;0.235931;0.238095;0.24026;0.242424;0.244589;0.246753;0.248918;0.251082;0.253247;0.255411;0.257576;0.25974;0.261905;0.264069;0.266234;0.268398;0.270563;0.272727;0.274892;0.277056;0.279221;0.281385;0.28355;0.285714;0.287879;0.290043;0.292208;0.294372;0.296537;0.298701;0.300866;0.30303;0.305195;0.307359;0.309524;0.311688;0.313853;0.316017;0.318182;0.320346;0.322511;0.324675;0.32684;0.329004;0.331169;0.333333;0.335498;0.337662;0.339827;0.341991;0.344156;0.34632;0.348485;0.350649;0.352814;0.354978;0.357143;0.359307;0.361472;0.363636;0.365801;0.367965;0.37013;0.372294;0.374459;0.376623;0.378788;0.380952;0.383117;0.385281;0.387446;0.38961;0.391775;0.393939;0.396104;0.398268;0.400433;0.402597;0.404762;0.406926;0.409091;0.411255;0.41342;0.415584;0.417749;0.419913;0.422078;0.424242;0.426407;0.428571;0.430736;0.4329;0.435065;0.437229;0.439394;0.441558;0.443723;0.445887;0.448052;0.450216;0.452381;0.454545;0.45671;0.458874;0.461039;0.463203;0.465368;0.467532;0.469697;0.471861;0.474026;0.47619;0.478355;0.480519;0.482684;0.484848;0.487013;0.489177;0.491342;0.493506;0.495671;0.497835;0.5;0.502165;0.504329;0.506494;0.508658;0.510823;0.512987;0.515152;0.517316;0.519481;0.521645;0.52381;0.525974;0.528139;0.530303;0.532468;0.534632;0.536797;0.538961;0.541126;0.54329;0.545455;0.547619;0.549784;0.551948;0.554113;0.556277;0.558442;0.560606;0.562771;0.564935;0.5671;0.569264;0.571429;0.573593;0.575758;0.577922;0.580087;0.582251;0.584416;0.58658;0.588745;0.590909;0.593074;0.595238;0.597403;0.599567;0.601732;0.603896;0.606061;0.608225;0.61039;0.612554;0.614719;0.616883;0.619048;0.621212;0.623377;0.625541;0.627706;0.62987;0.632035;0.634199;0.636364;0.638528;0.640693;0.642857;0.645022;0.647186;0.649351;0.651515;0.65368;0.655844;0.658009;0.660173;0.662338;0.664502;0.666667;0.668831;0.670996;0.67316;0.675325;0.677489;0.679654;0.681818;0.683983;0.686147;0.688312;0.690476;0.692641;0.694805;0.69697;0.699134;0.701299;0.703463;0.705628;0.707792;0.709957;0.712121;0.714286;0.71645;0.718615;0.720779;0.722944;0.725108;0.727273;0.729437;0.731602;0.733766;0.735931;0.738095;0.74026;0.742424;0.744589;0.746753;0.748918;0.751082;0.753247;0.755411;0.757576;0.75974;0.761905;0.764069;0.766234;0.768398;0.770563;0.772727;0.774892;0.777056;0.779221;0.781385;0.78355;0.785714;0.787879;0.790043;0.792208;0.794372;0.796537;0.798701;0.800866;0.80303;0.805195;0.807359;0.809524;0.811688;0.813853;0.816017;0.818182;0.820346;0.822511;0.824675;0.82684;0.829004;0.831169;0.833333;0.835498;0.837662;0.839827;0.841991;0.844156;0.84632;0.848485;0.850649;0.852814;0.854978;0.857143;0.859307;0.861472;0.863636;0.865801;0.867965;0.87013;0.872294;0.874459;0.876623;0.878788;0.880952;0.883117;0.885281;0.887446;0.88961;0.891775;0.893939;0.896104;0.898268;0.900433;0.902597;0.904762;0.906926;0.909091;0.911255;0.91342;1" calcMode="linear" dur="20790ms" repeatCount="indefinite"/>
+  <path d="M840.5 -29.5 L840.5 -14.5 L840.5 0.5 L840.5 15.5 L840.5 30.5 L840.5 45.5 L840.5 60.5 L825.5 60.5 L825.5 45.5 L825.5 30.5 L825.5 15.5 L810.5 15.5 L810.5 30.5 L810.5 45.5 L810.5 60.5 L795.5 60.5 L795.5 45.5 L795.5 30.5 L795.5 15.5 L780.5 15.5 L780.5 30.5 L780.5 45.5 L780.5 60.5 L780.5 75.5 L795.5 75.5 L810.5 75.5 L825.5 75.5 L840.5 75.5 L840.5 90.5 L840.5 105.5 L825.5 105.5 L825.5 90.5 L810.5 90.5 L810.5 105.5 L795.5 105.5 L795.5 90.5 L780.5 90.5 L780.5 105.5 L765.5 105.5 L750.5 105.5 L735.5 105.5 L720.5 105.5 L705.5 105.5 L705.5 90.5 L720.5 90.5 L720.5 75.5 L705.5 75.5 L705.5 60.5 L720.5 60.5 L735.5 60.5 L735.5 75.5 L735.5 90.5 L750.5 90.5 L765.5 90.5 L765.5 75.5 L750.5 75.5 L750.5 60.5 L765.5 60.5 L765.5 45.5 L750.5 45.5 L735.5 45.5 L735.5 30.5 L750.5 30.5 L765.5 30.5 L765.5 15.5 L750.5 15.5 L735.5 15.5 L720.5 15.5 L720.5 30.5 L720.5 45.5 L705.5 45.5 L705.5 30.5 L705.5 15.5 L690.5 15.5 L690.5 30.5 L690.5 45.5 L690.5 60.5 L690.5 75.5 L690.5 90.5 L690.5 105.5 L675.5 105.5 L675.5 90.5 L675.5 75.5 L675.5 60.5 L675.5 45.5 L660.5 45.5 L660.5 60.5 L660.5 75.5 L660.5 90.5 L660.5 105.5 L645.5 105.5 L645.5 90.5 L645.5 75.5 L630.5 75.5 L630.5 90.5 L630.5 105.5 L615.5 105.5 L615.5 90.5 L615.5 75.5 L615.5 60.5 L630.5 60.5 L645.5 60.5 L645.5 45.5 L630.5 45.5 L615.5 45.5 L600.5 45.5 L600.5 60.5 L585.5 60.5 L585.5 45.5 L570.5 45.5 L570.5 60.5 L570.5 75.5 L585.5 75.5 L600.5 75.5 L600.5 90.5 L600.5 105.5 L585.5 105.5 L585.5 90.5 L570.5 90.5 L570.5 105.5 L555.5 105.5 L540.5 105.5 L525.5 105.5 L510.5 105.5 L495.5 105.5 L495.5 90.5 L510.5 90.5 L525.5 90.5 L540.5 90.5 L555.5 90.5 L555.5 75.5 L540.5 75.5 L525.5 75.5 L525.5 60.5 L540.5 60.5 L555.5 60.5 L555.5 45.5 L540.5 45.5 L525.5 45.5 L525.5 30.5 L540.5 30.5 L555.5 30.5 L570.5 30.5 L585.5 30.5 L600.5 30.5 L615.5 30.5 L630.5 30.5 L645.5 30.5 L660.5 30.5 L675.5 30.5 L675.5 15.5 L660.5 15.5 L645.5 15.5 L630.5 15.5 L615.5 15.5 L600.5 15.5 L585.5 15.5 L570.5 15.5 L555.5 15.5 L540.5 15.5 L525.5 15.5 L510.5 15.5 L510.5 30.5 L510.5 45.5 L510.5 60.5 L510.5 75.5 L495.5 75.5 L495.5 60.5 L495.5 45.5 L495.5 30.5 L495.5 15.5 L480.5 15.5 L480.5 30.5 L465.5 30.5 L465.5 15.5 L450.5 15.5 L450.5 30.5 L450.5 45.5 L465.5 45.5 L480.5 45.5 L480.5 60.5 L480.5 75.5 L480.5 90.5 L480.5 105.5 L465.5 105.5 L450.5 105.5 L435.5 105.5 L435.5 90.5 L450.5 90.5 L465.5 90.5 L465.5 75.5 L465.5 60.5 L450.5 60.5 L450.5 75.5 L435.5 75.5 L435.5 60.5 L435.5 45.5 L435.5 30.5 L435.5 15.5 L420.5 15.5 L405.5 15.5 L405.5 30.5 L420.5 30.5 L420.5 45.5 L420.5 60.5 L420.5 75.5 L420.5 90.5 L420.5 105.5 L405.5 105.5 L390.5 105.5 L375.5 105.5 L360.5 105.5 L345.5 105.5 L345.5 90.5 L360.5 90.5 L360.5 75.5 L345.5 75.5 L345.5 60.5 L360.5 60.5 L375.5 60.5 L375.5 75.5 L375.5 90.5 L390.5 90.5 L405.5 90.5 L405.5 75.5 L390.5 75.5 L390.5 60.5 L405.5 60.5 L405.5 45.5 L390.5 45.5 L390.5 30.5 L390.5 15.5 L375.5 15.5 L375.5 30.5 L375.5 45.5 L360.5 45.5 L345.5 45.5 L330.5 45.5 L330.5 60.5 L315.5 60.5 L315.5 45.5 L300.5 45.5 L285.5 45.5 L270.5 45.5 L270.5 60.5 L285.5 60.5 L300.5 60.5 L300.5 75.5 L315.5 75.5 L330.5 75.5 L330.5 90.5 L330.5 105.5 L315.5 105.5 L315.5 90.5 L300.5 90.5 L300.5 105.5 L285.5 105.5 L285.5 90.5 L285.5 75.5 L270.5 75.5 L270.5 90.5 L270.5 105.5 L255.5 105.5 L240.5 105.5 L225.5 105.5 L225.5 90.5 L225.5 75.5 L240.5 75.5 L240.5 90.5 L255.5 90.5 L255.5 75.5 L255.5 60.5 L255.5 45.5 L240.5 45.5 L240.5 60.5 L225.5 60.5 L225.5 45.5 L225.5 30.5 L240.5 30.5 L255.5 30.5 L270.5 30.5 L285.5 30.5 L300.5 30.5 L315.5 30.5 L330.5 30.5 L345.5 30.5 L360.5 30.5 L360.5 15.5 L345.5 15.5 L330.5 15.5 L315.5 15.5 L300.5 15.5 L285.5 15.5 L270.5 15.5 L255.5 15.5 L240.5 15.5 L225.5 15.5 L210.5 15.5 L210.5 30.5 L195.5 30.5 L195.5 15.5 L180.5 15.5 L165.5 15.5 L150.5 15.5 L135.5 15.5 L120.5 15.5 L120.5 30.5 L135.5 30.5 L150.5 30.5 L165.5 30.5 L180.5 30.5 L180.5 45.5 L180.5 60.5 L195.5 60.5 L195.5 45.5 L210.5 45.5 L210.5 60.5 L210.5 75.5 L195.5 75.5 L180.5 75.5 L180.5 90.5 L165.5 90.5 L165.5 75.5 L165.5 60.5 L165.5 45.5 L150.5 45.5 L150.5 60.5 L135.5 60.5 L135.5 45.5 L120.5 45.5 L120.5 60.5 L120.5 75.5 L105.5 75.5 L90.5 75.5 L90.5 60.5 L105.5 60.5 L105.5 45.5 L105.5 30.5 L105.5 15.5 L90.5 15.5 L90.5 30.5 L90.5 45.5 L75.5 45.5 L75.5 30.5 L75.5 15.5 L60.5 15.5 L60.5 30.5 L60.5 45.5 L60.5 60.5 L75.5 60.5 L75.5 75.5 L60.5 75.5 L60.5 90.5 L60.5 105.5 L75.5 105.5 L75.5 90.5 L90.5 90.5 L90.5 105.5 L105.5 105.5 L105.5 90.5 L120.5 90.5 L120.5 105.5 L135.5 105.5 L135.5 90.5 L135.5 75.5 L150.5 75.5 L150.5 90.5 L150.5 105.5 L165.5 105.5 L180.5 105.5 L195.5 105.5 L195.5 90.5 L210.5 90.5 L210.5 105.5 L210.5 120.5 L210.5 135.5 L210.5 150.5 L210.5 165.5 L210.5 180.5 L210.5 195.5 L210.5 210.5 L210.5 225.5 L210.5 240.5 L210.5 255.5 L210.5 270.5 L210.5 285.5 L210.5 300.5 L210.5 315.5 L210.5 330.5 L210.5 345.5 L210.5 360.5 L210.5 375.5 L210.5 390.5 L210.5 405.5 L210.5 420.5 L210.5 435.5 L210.5 450.5 L210.5 465.5 L210.5 480.5 L210.5 495.5 L210.5 510.5 L210.5 525.5 L210.5 540.5 L210.5 555.5 L210.5 570.5 L210.5 585.5 L210.5 600.5 L210.5 615.5 L210.5 630.5 L210.5 645.5 L210.5 660.5 L210.5 675.5 L210.5 690.5 L210.5 705.5 L210.5 720.5 L210.5 735.5 L210.5 750.5 L210.5 765.5 L210.5 780.5 L210.5 795.5 L210.5 810.5 L210.5 825.5 L210.5 840.5" fill="none" stroke="var(--snake)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="30 6330" stroke-dashoffset="0">
+    <animate attributeName="stroke-dasharray" values="30 6330;30 6330;30 6330;30 6330;30 6330;30 6330;30 6330;30 6330;30 6330;30 6330;30 6330;30 6330;30 6330;30 6330;30 6330;30 6330;30 6330;30 6330;30 6330;30 6330;30 6330;30 6330;30 6330;30 6330;30 6330;30 6330;30 6330;30 6330;30 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;45 6330;60 6330;60 6330;75 6330;75 6330;75 6330;75 6330;75 6330;90 6330;90 6330;90 6330;90 6330;90 6330;90 6330;105 6330;105 6330;105 6330;105 6330;105 6330;105 6330;120 6330;135 6330;135 6330;150 6330;150 6330;165 6330;165 6330;165 6330;165 6330;165 6330;165 6330;165 6330;165 6330;165 6330;165 6330;165 6330;165 6330;165 6330;165 6330;165 6330;180 6330;180 6330;195 6330;195 6330;210 6330;225 6330;240 6330;240 6330;240 6330;240 6330;240 6330;240 6330;240 6330;240 6330;240 6330;240 6330;240 6330;240 6330;240 6330;255 6330;255 6330;255 6330;270 6330;270 6330;270 6330;270 6330;270 6330;270 6330;270 6330;270 6330;270 6330;270 6330;270 6330;270 6330;270 6330;270 6330;270 6330;270 6330;270 6330;270 6330;270 6330;270 6330;285 6330;300 6330;300 6330;300 6330;300 6330;300 6330;300 6330;300 6330;300 6330;315 6330;330 6330;330 6330;330 6330;330 6330;330 6330;345 6330;345 6330;345 6330;360 6330;360 6330;360 6330;360 6330;375 6330;390 6330;405 6330;420 6330;435 6330;435 6330;435 6330;450 6330;450 6330;465 6330;465 6330;480 6330;495 6330;510 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;525 6330;540 6330;555 6330;555 6330;555 6330;555 6330;555 6330;555 6330;555 6330;555 6330;555 6330;555 6330;555 6330;555 6330;555 6330;555 6330;555 6330;555 6330;555 6330;555 6330;555 6330;555 6330;570 6330;570 6330;570 6330;570 6330;570 6330;570 6330;570 6330;570 6330;570 6330;570 6330;570 6330;570 6330;570 6330;570 6330;570 6330;570 6330;570 6330;570 6330;570 6330;570 6330;570 6330;570 6330;570 6330;570 6330;570 6330;570 6330;570 6330;585 6330;600 6330;600 6330;600 6330;600 6330;600 6330;600 6330;615 6330;615 6330;630 6330;630 6330;630 6330;630 6330;630 6330;630 6330;630 6330;645 6330;645 6330;645 6330;645 6330;645 6330;645 6330;645 6330;645 6330;645 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330;660 6330" keyTimes="0;0.002174;0.004348;0.006522;0.008696;0.01087;0.013043;0.015217;0.017391;0.019565;0.021739;0.023913;0.026087;0.028261;0.030435;0.032609;0.034783;0.036957;0.03913;0.041304;0.043478;0.045652;0.047826;0.05;0.052174;0.054348;0.056522;0.058696;0.06087;0.063043;0.065217;0.067391;0.069565;0.071739;0.073913;0.076087;0.078261;0.080435;0.082609;0.084783;0.086957;0.08913;0.091304;0.093478;0.095652;0.097826;0.1;0.102174;0.104348;0.106522;0.108696;0.11087;0.113043;0.115217;0.117391;0.119565;0.121739;0.123913;0.126087;0.128261;0.130435;0.132609;0.134783;0.136957;0.13913;0.141304;0.143478;0.145652;0.147826;0.15;0.152174;0.154348;0.156522;0.158696;0.16087;0.163043;0.165217;0.167391;0.169565;0.171739;0.173913;0.176087;0.178261;0.180435;0.182609;0.184783;0.186957;0.18913;0.191304;0.193478;0.195652;0.197826;0.2;0.202174;0.204348;0.206522;0.208696;0.21087;0.213043;0.215217;0.217391;0.219565;0.221739;0.223913;0.226087;0.228261;0.230435;0.232609;0.234783;0.236957;0.23913;0.241304;0.243478;0.245652;0.247826;0.25;0.252174;0.254348;0.256522;0.258696;0.26087;0.263043;0.265217;0.267391;0.269565;0.271739;0.273913;0.276087;0.278261;0.280435;0.282609;0.284783;0.286957;0.28913;0.291304;0.293478;0.295652;0.297826;0.3;0.302174;0.304348;0.306522;0.308696;0.31087;0.313043;0.315217;0.317391;0.319565;0.321739;0.323913;0.326087;0.328261;0.330435;0.332609;0.334783;0.336957;0.33913;0.341304;0.343478;0.345652;0.347826;0.35;0.352174;0.354348;0.356522;0.358696;0.36087;0.363043;0.365217;0.367391;0.369565;0.371739;0.373913;0.376087;0.378261;0.380435;0.382609;0.384783;0.386957;0.38913;0.391304;0.393478;0.395652;0.397826;0.4;0.402174;0.404348;0.406522;0.408696;0.41087;0.413043;0.415217;0.417391;0.419565;0.421739;0.423913;0.426087;0.428261;0.430435;0.432609;0.434783;0.436957;0.43913;0.441304;0.443478;0.445652;0.447826;0.45;0.452174;0.454348;0.456522;0.458696;0.46087;0.463043;0.465217;0.467391;0.469565;0.471739;0.473913;0.476087;0.478261;0.480435;0.482609;0.484783;0.486957;0.48913;0.491304;0.493478;0.495652;0.497826;0.5;0.502174;0.504348;0.506522;0.508696;0.51087;0.513043;0.515217;0.517391;0.519565;0.521739;0.523913;0.526087;0.528261;0.530435;0.532609;0.534783;0.536957;0.53913;0.541304;0.543478;0.545652;0.547826;0.55;0.552174;0.554348;0.556522;0.558696;0.56087;0.563043;0.565217;0.567391;0.569565;0.571739;0.573913;0.576087;0.578261;0.580435;0.582609;0.584783;0.586957;0.58913;0.591304;0.593478;0.595652;0.597826;0.6;0.602174;0.604348;0.606522;0.608696;0.61087;0.613043;0.615217;0.617391;0.619565;0.621739;0.623913;0.626087;0.628261;0.630435;0.632609;0.634783;0.636957;0.63913;0.641304;0.643478;0.645652;0.647826;0.65;0.652174;0.654348;0.656522;0.658696;0.66087;0.663043;0.665217;0.667391;0.669565;0.671739;0.673913;0.676087;0.678261;0.680435;0.682609;0.684783;0.686957;0.68913;0.691304;0.693478;0.695652;0.697826;0.7;0.702174;0.704348;0.706522;0.708696;0.71087;0.713043;0.715217;0.717391;0.719565;0.721739;0.723913;0.726087;0.728261;0.730435;0.732609;0.734783;0.736957;0.73913;0.741304;0.743478;0.745652;0.747826;0.75;0.752174;0.754348;0.756522;0.758696;0.76087;0.763043;0.765217;0.767391;0.769565;0.771739;0.773913;0.776087;0.778261;0.780435;0.782609;0.784783;0.786957;0.78913;0.791304;0.793478;0.795652;0.797826;0.8;0.802174;0.804348;0.806522;0.808696;0.81087;0.813043;0.815217;0.817391;0.819565;0.821739;0.823913;0.826087;0.828261;0.830435;0.832609;0.834783;0.836957;0.83913;0.841304;0.843478;0.845652;0.847826;0.85;0.852174;0.854348;0.856522;0.858696;0.86087;0.863043;0.865217;0.867391;0.869565;0.871739;0.873913;0.876087;0.878261;0.880435;0.882609;0.884783;0.886957;0.88913;0.891304;0.893478;0.895652;0.897826;0.9;0.902174;0.904348;0.906522;0.908696;0.91087;0.913043;1" calcMode="linear" dur="20700ms" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" values="0;-15;-30;-45;-60;-75;-90;-105;-120;-135;-150;-165;-180;-195;-210;-225;-240;-255;-270;-285;-300;-315;-330;-345;-360;-375;-390;-405;-420;-420;-435;-450;-465;-480;-495;-510;-525;-540;-555;-570;-585;-600;-615;-630;-645;-660;-675;-690;-705;-720;-735;-750;-765;-780;-795;-810;-825;-840;-855;-870;-885;-900;-915;-930;-945;-960;-975;-990;-1005;-1020;-1035;-1050;-1065;-1080;-1095;-1110;-1125;-1140;-1155;-1170;-1185;-1200;-1215;-1230;-1245;-1260;-1275;-1290;-1305;-1320;-1335;-1350;-1365;-1380;-1395;-1410;-1425;-1440;-1455;-1470;-1485;-1500;-1515;-1530;-1545;-1560;-1575;-1590;-1605;-1620;-1635;-1650;-1665;-1680;-1695;-1710;-1725;-1725;-1740;-1740;-1755;-1770;-1785;-1800;-1800;-1815;-1830;-1845;-1860;-1875;-1875;-1890;-1905;-1920;-1935;-1950;-1950;-1950;-1965;-1965;-1980;-1980;-1995;-2010;-2025;-2040;-2055;-2070;-2085;-2100;-2115;-2130;-2145;-2160;-2175;-2190;-2190;-2205;-2205;-2220;-2220;-2220;-2220;-2235;-2250;-2265;-2280;-2295;-2310;-2325;-2340;-2355;-2370;-2385;-2400;-2400;-2415;-2430;-2430;-2445;-2460;-2475;-2490;-2505;-2520;-2535;-2550;-2565;-2580;-2595;-2610;-2625;-2640;-2655;-2670;-2685;-2700;-2715;-2715;-2715;-2730;-2745;-2760;-2775;-2790;-2805;-2820;-2820;-2820;-2835;-2850;-2865;-2880;-2880;-2895;-2910;-2910;-2925;-2940;-2955;-2955;-2955;-2955;-2955;-2955;-2970;-2985;-2985;-3000;-3000;-3015;-3015;-3015;-3015;-3015;-3030;-3045;-3060;-3075;-3090;-3105;-3120;-3135;-3150;-3165;-3180;-3195;-3210;-3225;-3240;-3255;-3270;-3285;-3300;-3315;-3330;-3345;-3360;-3375;-3390;-3405;-3420;-3435;-3450;-3465;-3480;-3495;-3510;-3525;-3540;-3555;-3570;-3585;-3600;-3615;-3630;-3645;-3660;-3675;-3690;-3705;-3720;-3735;-3750;-3750;-3750;-3765;-3780;-3795;-3810;-3825;-3840;-3855;-3870;-3885;-3900;-3915;-3930;-3945;-3960;-3975;-3990;-4005;-4020;-4035;-4035;-4050;-4065;-4080;-4095;-4110;-4125;-4140;-4155;-4170;-4185;-4200;-4215;-4230;-4245;-4260;-4275;-4290;-4305;-4320;-4335;-4350;-4365;-4380;-4395;-4410;-4425;-4425;-4425;-4440;-4455;-4470;-4485;-4500;-4500;-4515;-4515;-4530;-4545;-4560;-4575;-4590;-4605;-4605;-4620;-4635;-4650;-4665;-4680;-4695;-4710;-4725;-4725;-4740;-4755;-4770;-4785;-4800;-4815;-4830;-4845;-4860;-4875;-4890;-4905;-4920;-4935;-4950;-4965;-4980;-4995;-5010;-5025;-5040;-5055;-5070;-5085;-5100;-5115;-5130;-5145;-5160;-5175;-5190;-5205;-5220;-5235;-5250;-5265;-5280;-5295;-5310;-5325;-5340;-5355;-5370;-5385;-5400;-5415;-5430;-5445;-5460;-5475;-5490;-5505;-5520;-5535;-5550;-5565;-5580;-5595;-5610;-5625;-5640;-5655;-5670;-5670" keyTimes="0;0.002174;0.004348;0.006522;0.008696;0.01087;0.013043;0.015217;0.017391;0.019565;0.021739;0.023913;0.026087;0.028261;0.030435;0.032609;0.034783;0.036957;0.03913;0.041304;0.043478;0.045652;0.047826;0.05;0.052174;0.054348;0.056522;0.058696;0.06087;0.063043;0.065217;0.067391;0.069565;0.071739;0.073913;0.076087;0.078261;0.080435;0.082609;0.084783;0.086957;0.08913;0.091304;0.093478;0.095652;0.097826;0.1;0.102174;0.104348;0.106522;0.108696;0.11087;0.113043;0.115217;0.117391;0.119565;0.121739;0.123913;0.126087;0.128261;0.130435;0.132609;0.134783;0.136957;0.13913;0.141304;0.143478;0.145652;0.147826;0.15;0.152174;0.154348;0.156522;0.158696;0.16087;0.163043;0.165217;0.167391;0.169565;0.171739;0.173913;0.176087;0.178261;0.180435;0.182609;0.184783;0.186957;0.18913;0.191304;0.193478;0.195652;0.197826;0.2;0.202174;0.204348;0.206522;0.208696;0.21087;0.213043;0.215217;0.217391;0.219565;0.221739;0.223913;0.226087;0.228261;0.230435;0.232609;0.234783;0.236957;0.23913;0.241304;0.243478;0.245652;0.247826;0.25;0.252174;0.254348;0.256522;0.258696;0.26087;0.263043;0.265217;0.267391;0.269565;0.271739;0.273913;0.276087;0.278261;0.280435;0.282609;0.284783;0.286957;0.28913;0.291304;0.293478;0.295652;0.297826;0.3;0.302174;0.304348;0.306522;0.308696;0.31087;0.313043;0.315217;0.317391;0.319565;0.321739;0.323913;0.326087;0.328261;0.330435;0.332609;0.334783;0.336957;0.33913;0.341304;0.343478;0.345652;0.347826;0.35;0.352174;0.354348;0.356522;0.358696;0.36087;0.363043;0.365217;0.367391;0.369565;0.371739;0.373913;0.376087;0.378261;0.380435;0.382609;0.384783;0.386957;0.38913;0.391304;0.393478;0.395652;0.397826;0.4;0.402174;0.404348;0.406522;0.408696;0.41087;0.413043;0.415217;0.417391;0.419565;0.421739;0.423913;0.426087;0.428261;0.430435;0.432609;0.434783;0.436957;0.43913;0.441304;0.443478;0.445652;0.447826;0.45;0.452174;0.454348;0.456522;0.458696;0.46087;0.463043;0.465217;0.467391;0.469565;0.471739;0.473913;0.476087;0.478261;0.480435;0.482609;0.484783;0.486957;0.48913;0.491304;0.493478;0.495652;0.497826;0.5;0.502174;0.504348;0.506522;0.508696;0.51087;0.513043;0.515217;0.517391;0.519565;0.521739;0.523913;0.526087;0.528261;0.530435;0.532609;0.534783;0.536957;0.53913;0.541304;0.543478;0.545652;0.547826;0.55;0.552174;0.554348;0.556522;0.558696;0.56087;0.563043;0.565217;0.567391;0.569565;0.571739;0.573913;0.576087;0.578261;0.580435;0.582609;0.584783;0.586957;0.58913;0.591304;0.593478;0.595652;0.597826;0.6;0.602174;0.604348;0.606522;0.608696;0.61087;0.613043;0.615217;0.617391;0.619565;0.621739;0.623913;0.626087;0.628261;0.630435;0.632609;0.634783;0.636957;0.63913;0.641304;0.643478;0.645652;0.647826;0.65;0.652174;0.654348;0.656522;0.658696;0.66087;0.663043;0.665217;0.667391;0.669565;0.671739;0.673913;0.676087;0.678261;0.680435;0.682609;0.684783;0.686957;0.68913;0.691304;0.693478;0.695652;0.697826;0.7;0.702174;0.704348;0.706522;0.708696;0.71087;0.713043;0.715217;0.717391;0.719565;0.721739;0.723913;0.726087;0.728261;0.730435;0.732609;0.734783;0.736957;0.73913;0.741304;0.743478;0.745652;0.747826;0.75;0.752174;0.754348;0.756522;0.758696;0.76087;0.763043;0.765217;0.767391;0.769565;0.771739;0.773913;0.776087;0.778261;0.780435;0.782609;0.784783;0.786957;0.78913;0.791304;0.793478;0.795652;0.797826;0.8;0.802174;0.804348;0.806522;0.808696;0.81087;0.813043;0.815217;0.817391;0.819565;0.821739;0.823913;0.826087;0.828261;0.830435;0.832609;0.834783;0.836957;0.83913;0.841304;0.843478;0.845652;0.847826;0.85;0.852174;0.854348;0.856522;0.858696;0.86087;0.863043;0.865217;0.867391;0.869565;0.871739;0.873913;0.876087;0.878261;0.880435;0.882609;0.884783;0.886957;0.88913;0.891304;0.893478;0.895652;0.897826;0.9;0.902174;0.904348;0.906522;0.908696;0.91087;0.913043;1" calcMode="linear" dur="20700ms" repeatCount="indefinite"/>
   </path>
   <g fill="var(--snake)">
     <circle r="6.5"/>
     <circle cx="2.5" cy="-2.4" r="1.25" fill="var(--eye)"/>
     <circle cx="2.5" cy="2.4" r="1.25" fill="var(--eye)"/>
-    <animateMotion path="M240.5 120.5 L240.5 105.5 L240.5 90.5 L240.5 75.5 L225.5 75.5 L225.5 60.5 L240.5 60.5 L240.5 45.5 L225.5 45.5 L210.5 45.5 L210.5 30.5 L225.5 30.5 L240.5 30.5 L255.5 30.5 L255.5 45.5 L255.5 60.5 L255.5 75.5 L255.5 90.5 L255.5 105.5 L270.5 105.5 L270.5 90.5 L270.5 75.5 L270.5 60.5 L270.5 45.5 L270.5 30.5 L285.5 30.5 L285.5 45.5 L285.5 60.5 L285.5 75.5 L285.5 90.5 L285.5 105.5 L300.5 105.5 L300.5 90.5 L300.5 75.5 L300.5 60.5 L300.5 45.5 L300.5 30.5 L315.5 30.5 L315.5 45.5 L315.5 60.5 L315.5 75.5 L315.5 90.5 L315.5 105.5 L330.5 105.5 L330.5 90.5 L330.5 75.5 L330.5 60.5 L330.5 45.5 L330.5 30.5 L345.5 30.5 L345.5 45.5 L345.5 60.5 L345.5 75.5 L345.5 90.5 L345.5 105.5 L360.5 105.5 L360.5 90.5 L360.5 75.5 L360.5 60.5 L360.5 45.5 L360.5 30.5 L375.5 30.5 L375.5 45.5 L375.5 60.5 L375.5 75.5 L375.5 90.5 L375.5 105.5 L390.5 105.5 L390.5 90.5 L390.5 75.5 L390.5 60.5 L390.5 45.5 L390.5 30.5 L405.5 30.5 L405.5 45.5 L405.5 60.5 L405.5 75.5 L405.5 90.5 L405.5 105.5 L420.5 105.5 L420.5 90.5 L420.5 75.5 L420.5 60.5 L420.5 45.5 L420.5 30.5 L435.5 30.5 L435.5 45.5 L435.5 60.5 L435.5 75.5 L435.5 90.5 L435.5 105.5 L450.5 105.5 L450.5 90.5 L450.5 75.5 L450.5 60.5 L450.5 45.5 L450.5 30.5 L465.5 30.5 L465.5 45.5 L465.5 60.5 L465.5 75.5 L465.5 90.5 L465.5 105.5 L480.5 105.5 L480.5 90.5 L480.5 75.5 L480.5 60.5 L480.5 45.5 L480.5 30.5 L495.5 30.5 L495.5 45.5 L495.5 60.5 L495.5 75.5 L495.5 90.5 L495.5 105.5 L510.5 105.5 L510.5 90.5 L510.5 75.5 L510.5 60.5 L510.5 45.5 L510.5 30.5 L525.5 30.5 L525.5 45.5 L525.5 60.5 L525.5 75.5 L525.5 90.5 L525.5 105.5 L540.5 105.5 L540.5 90.5 L540.5 75.5 L540.5 60.5 L540.5 45.5 L540.5 30.5 L555.5 30.5 L555.5 45.5 L555.5 60.5 L555.5 75.5 L555.5 90.5 L555.5 105.5 L570.5 105.5 L570.5 90.5 L570.5 75.5 L570.5 60.5 L570.5 45.5 L570.5 30.5 L585.5 30.5 L585.5 45.5 L585.5 60.5 L585.5 75.5 L585.5 90.5 L585.5 105.5 L600.5 105.5 L600.5 90.5 L600.5 75.5 L600.5 60.5 L600.5 45.5 L600.5 30.5 L615.5 30.5 L615.5 45.5 L615.5 60.5 L615.5 75.5 L615.5 90.5 L615.5 105.5 L630.5 105.5 L630.5 90.5 L630.5 75.5 L630.5 60.5 L630.5 45.5 L630.5 30.5 L645.5 30.5 L645.5 45.5 L645.5 60.5 L645.5 75.5 L645.5 90.5 L645.5 105.5 L660.5 105.5 L660.5 90.5 L660.5 75.5 L660.5 60.5 L660.5 45.5 L660.5 30.5 L675.5 30.5 L675.5 45.5 L675.5 60.5 L675.5 75.5 L675.5 90.5 L675.5 105.5 L690.5 105.5 L690.5 90.5 L690.5 75.5 L690.5 60.5 L690.5 45.5 L690.5 30.5 L705.5 30.5 L705.5 45.5 L705.5 60.5 L705.5 75.5 L705.5 90.5 L705.5 105.5 L720.5 105.5 L720.5 90.5 L720.5 75.5 L720.5 60.5 L720.5 45.5 L720.5 30.5 L735.5 30.5 L735.5 45.5 L735.5 60.5 L735.5 75.5 L735.5 90.5 L735.5 105.5 L750.5 105.5 L750.5 90.5 L750.5 75.5 L750.5 60.5 L750.5 45.5 L750.5 30.5 L765.5 30.5 L765.5 45.5 L765.5 60.5 L765.5 75.5 L765.5 90.5 L765.5 105.5 L780.5 105.5 L780.5 90.5 L780.5 75.5 L780.5 60.5 L780.5 45.5 L780.5 30.5 L795.5 30.5 L795.5 45.5 L795.5 60.5 L795.5 75.5 L795.5 90.5 L795.5 105.5 L810.5 105.5 L810.5 90.5 L810.5 75.5 L810.5 60.5 L810.5 45.5 L810.5 30.5 L825.5 30.5 L825.5 45.5 L825.5 60.5 L825.5 75.5 L825.5 90.5 L825.5 105.5 L840.5 105.5 L840.5 90.5 L840.5 75.5 L840.5 60.5 L840.5 45.5 L840.5 30.5 L840.5 15.5 L825.5 15.5 L810.5 15.5 L795.5 15.5 L780.5 15.5 L765.5 15.5 L750.5 15.5 L735.5 15.5 L720.5 15.5 L705.5 15.5 L690.5 15.5 L675.5 15.5 L660.5 15.5 L645.5 15.5 L630.5 15.5 L615.5 15.5 L600.5 15.5 L585.5 15.5 L570.5 15.5 L555.5 15.5 L540.5 15.5 L525.5 15.5 L510.5 15.5 L495.5 15.5 L480.5 15.5 L465.5 15.5 L450.5 15.5 L435.5 15.5 L420.5 15.5 L405.5 15.5 L390.5 15.5 L375.5 15.5 L360.5 15.5 L345.5 15.5 L330.5 15.5 L315.5 15.5 L300.5 15.5 L285.5 15.5 L270.5 15.5 L255.5 15.5 L240.5 15.5 L225.5 15.5 L210.5 15.5 L195.5 15.5 L180.5 15.5 L165.5 15.5 L150.5 15.5 L135.5 15.5 L120.5 15.5 L105.5 15.5 L90.5 15.5 L75.5 15.5 L60.5 15.5 L60.5 30.5 L75.5 30.5 L90.5 30.5 L105.5 30.5 L105.5 45.5 L90.5 45.5 L75.5 45.5 L60.5 45.5 L60.5 60.5 L75.5 60.5 L90.5 60.5 L90.5 75.5 L90.5 90.5 L105.5 90.5 L120.5 90.5 L120.5 75.5 L105.5 75.5 L105.5 60.5 L120.5 60.5 L120.5 45.5 L120.5 30.5 L135.5 30.5 L135.5 45.5 L135.5 60.5 L150.5 60.5 L165.5 60.5 L180.5 60.5 L180.5 45.5 L165.5 45.5 L150.5 45.5 L150.5 30.5 L165.5 30.5 L180.5 30.5 L195.5 30.5 L195.5 45.5 L195.5 60.5 L210.5 60.5 L210.5 75.5 L210.5 90.5 L225.5 90.5 L225.5 105.5 L210.5 105.5 L195.5 105.5 L195.5 90.5 L195.5 75.5 L180.5 75.5 L180.5 90.5 L180.5 105.5 L165.5 105.5 L165.5 90.5 L165.5 75.5 L150.5 75.5 L135.5 75.5 L135.5 90.5 L150.5 90.5 L150.5 105.5 L135.5 105.5 L120.5 105.5 L105.5 105.5 L90.5 105.5 L75.5 105.5 L60.5 105.5 L60.5 90.5 L75.5 90.5 L75.5 75.5 L60.5 75.5 L45.5 75.5 L30.5 75.5 L15.5 75.5 L0.5 75.5 L-14.5 75.5 L-29.5 75.5 L-44.5 75.5 L-59.5 75.5 L-74.5 75.5 L-89.5 75.5 L-104.5 75.5 L-119.5 75.5 L-134.5 75.5 L-149.5 75.5 L-164.5 75.5 L-179.5 75.5 L-194.5 75.5 L-209.5 75.5 L-224.5 75.5 L-239.5 75.5 L-254.5 75.5 L-269.5 75.5 L-284.5 75.5 L-299.5 75.5 L-314.5 75.5 L-329.5 75.5 L-344.5 75.5 L-359.5 75.5 L-374.5 75.5 L-389.5 75.5 L-404.5 75.5 L-419.5 75.5 L-434.5 75.5 L-449.5 75.5 L-464.5 75.5 L-479.5 75.5 L-494.5 75.5 L-509.5 75.5 L-524.5 75.5 L-539.5 75.5 L-554.5 75.5 L-569.5 75.5 L-584.5 75.5 L-599.5 75.5 L-614.5 75.5 L-629.5 75.5 L-644.5 75.5 L-659.5 75.5 L-674.5 75.5 L-689.5 75.5 L-704.5 75.5" keyPoints="0;1;1" keyTimes="0;0.91342;1" calcMode="linear" dur="20790ms" repeatCount="indefinite"/>
+    <animateMotion path="M840.5 0.5 L840.5 15.5 L840.5 30.5 L840.5 45.5 L840.5 60.5 L825.5 60.5 L825.5 45.5 L825.5 30.5 L825.5 15.5 L810.5 15.5 L810.5 30.5 L810.5 45.5 L810.5 60.5 L795.5 60.5 L795.5 45.5 L795.5 30.5 L795.5 15.5 L780.5 15.5 L780.5 30.5 L780.5 45.5 L780.5 60.5 L780.5 75.5 L795.5 75.5 L810.5 75.5 L825.5 75.5 L840.5 75.5 L840.5 90.5 L840.5 105.5 L825.5 105.5 L825.5 90.5 L810.5 90.5 L810.5 105.5 L795.5 105.5 L795.5 90.5 L780.5 90.5 L780.5 105.5 L765.5 105.5 L750.5 105.5 L735.5 105.5 L720.5 105.5 L705.5 105.5 L705.5 90.5 L720.5 90.5 L720.5 75.5 L705.5 75.5 L705.5 60.5 L720.5 60.5 L735.5 60.5 L735.5 75.5 L735.5 90.5 L750.5 90.5 L765.5 90.5 L765.5 75.5 L750.5 75.5 L750.5 60.5 L765.5 60.5 L765.5 45.5 L750.5 45.5 L735.5 45.5 L735.5 30.5 L750.5 30.5 L765.5 30.5 L765.5 15.5 L750.5 15.5 L735.5 15.5 L720.5 15.5 L720.5 30.5 L720.5 45.5 L705.5 45.5 L705.5 30.5 L705.5 15.5 L690.5 15.5 L690.5 30.5 L690.5 45.5 L690.5 60.5 L690.5 75.5 L690.5 90.5 L690.5 105.5 L675.5 105.5 L675.5 90.5 L675.5 75.5 L675.5 60.5 L675.5 45.5 L660.5 45.5 L660.5 60.5 L660.5 75.5 L660.5 90.5 L660.5 105.5 L645.5 105.5 L645.5 90.5 L645.5 75.5 L630.5 75.5 L630.5 90.5 L630.5 105.5 L615.5 105.5 L615.5 90.5 L615.5 75.5 L615.5 60.5 L630.5 60.5 L645.5 60.5 L645.5 45.5 L630.5 45.5 L615.5 45.5 L600.5 45.5 L600.5 60.5 L585.5 60.5 L585.5 45.5 L570.5 45.5 L570.5 60.5 L570.5 75.5 L585.5 75.5 L600.5 75.5 L600.5 90.5 L600.5 105.5 L585.5 105.5 L585.5 90.5 L570.5 90.5 L570.5 105.5 L555.5 105.5 L540.5 105.5 L525.5 105.5 L510.5 105.5 L495.5 105.5 L495.5 90.5 L510.5 90.5 L525.5 90.5 L540.5 90.5 L555.5 90.5 L555.5 75.5 L540.5 75.5 L525.5 75.5 L525.5 60.5 L540.5 60.5 L555.5 60.5 L555.5 45.5 L540.5 45.5 L525.5 45.5 L525.5 30.5 L540.5 30.5 L555.5 30.5 L570.5 30.5 L585.5 30.5 L600.5 30.5 L615.5 30.5 L630.5 30.5 L645.5 30.5 L660.5 30.5 L675.5 30.5 L675.5 15.5 L660.5 15.5 L645.5 15.5 L630.5 15.5 L615.5 15.5 L600.5 15.5 L585.5 15.5 L570.5 15.5 L555.5 15.5 L540.5 15.5 L525.5 15.5 L510.5 15.5 L510.5 30.5 L510.5 45.5 L510.5 60.5 L510.5 75.5 L495.5 75.5 L495.5 60.5 L495.5 45.5 L495.5 30.5 L495.5 15.5 L480.5 15.5 L480.5 30.5 L465.5 30.5 L465.5 15.5 L450.5 15.5 L450.5 30.5 L450.5 45.5 L465.5 45.5 L480.5 45.5 L480.5 60.5 L480.5 75.5 L480.5 90.5 L480.5 105.5 L465.5 105.5 L450.5 105.5 L435.5 105.5 L435.5 90.5 L450.5 90.5 L465.5 90.5 L465.5 75.5 L465.5 60.5 L450.5 60.5 L450.5 75.5 L435.5 75.5 L435.5 60.5 L435.5 45.5 L435.5 30.5 L435.5 15.5 L420.5 15.5 L405.5 15.5 L405.5 30.5 L420.5 30.5 L420.5 45.5 L420.5 60.5 L420.5 75.5 L420.5 90.5 L420.5 105.5 L405.5 105.5 L390.5 105.5 L375.5 105.5 L360.5 105.5 L345.5 105.5 L345.5 90.5 L360.5 90.5 L360.5 75.5 L345.5 75.5 L345.5 60.5 L360.5 60.5 L375.5 60.5 L375.5 75.5 L375.5 90.5 L390.5 90.5 L405.5 90.5 L405.5 75.5 L390.5 75.5 L390.5 60.5 L405.5 60.5 L405.5 45.5 L390.5 45.5 L390.5 30.5 L390.5 15.5 L375.5 15.5 L375.5 30.5 L375.5 45.5 L360.5 45.5 L345.5 45.5 L330.5 45.5 L330.5 60.5 L315.5 60.5 L315.5 45.5 L300.5 45.5 L285.5 45.5 L270.5 45.5 L270.5 60.5 L285.5 60.5 L300.5 60.5 L300.5 75.5 L315.5 75.5 L330.5 75.5 L330.5 90.5 L330.5 105.5 L315.5 105.5 L315.5 90.5 L300.5 90.5 L300.5 105.5 L285.5 105.5 L285.5 90.5 L285.5 75.5 L270.5 75.5 L270.5 90.5 L270.5 105.5 L255.5 105.5 L240.5 105.5 L225.5 105.5 L225.5 90.5 L225.5 75.5 L240.5 75.5 L240.5 90.5 L255.5 90.5 L255.5 75.5 L255.5 60.5 L255.5 45.5 L240.5 45.5 L240.5 60.5 L225.5 60.5 L225.5 45.5 L225.5 30.5 L240.5 30.5 L255.5 30.5 L270.5 30.5 L285.5 30.5 L300.5 30.5 L315.5 30.5 L330.5 30.5 L345.5 30.5 L360.5 30.5 L360.5 15.5 L345.5 15.5 L330.5 15.5 L315.5 15.5 L300.5 15.5 L285.5 15.5 L270.5 15.5 L255.5 15.5 L240.5 15.5 L225.5 15.5 L210.5 15.5 L210.5 30.5 L195.5 30.5 L195.5 15.5 L180.5 15.5 L165.5 15.5 L150.5 15.5 L135.5 15.5 L120.5 15.5 L120.5 30.5 L135.5 30.5 L150.5 30.5 L165.5 30.5 L180.5 30.5 L180.5 45.5 L180.5 60.5 L195.5 60.5 L195.5 45.5 L210.5 45.5 L210.5 60.5 L210.5 75.5 L195.5 75.5 L180.5 75.5 L180.5 90.5 L165.5 90.5 L165.5 75.5 L165.5 60.5 L165.5 45.5 L150.5 45.5 L150.5 60.5 L135.5 60.5 L135.5 45.5 L120.5 45.5 L120.5 60.5 L120.5 75.5 L105.5 75.5 L90.5 75.5 L90.5 60.5 L105.5 60.5 L105.5 45.5 L105.5 30.5 L105.5 15.5 L90.5 15.5 L90.5 30.5 L90.5 45.5 L75.5 45.5 L75.5 30.5 L75.5 15.5 L60.5 15.5 L60.5 30.5 L60.5 45.5 L60.5 60.5 L75.5 60.5 L75.5 75.5 L60.5 75.5 L60.5 90.5 L60.5 105.5 L75.5 105.5 L75.5 90.5 L90.5 90.5 L90.5 105.5 L105.5 105.5 L105.5 90.5 L120.5 90.5 L120.5 105.5 L135.5 105.5 L135.5 90.5 L135.5 75.5 L150.5 75.5 L150.5 90.5 L150.5 105.5 L165.5 105.5 L180.5 105.5 L195.5 105.5 L195.5 90.5 L210.5 90.5 L210.5 105.5 L210.5 120.5 L210.5 135.5 L210.5 150.5 L210.5 165.5 L210.5 180.5 L210.5 195.5 L210.5 210.5 L210.5 225.5 L210.5 240.5 L210.5 255.5 L210.5 270.5 L210.5 285.5 L210.5 300.5 L210.5 315.5 L210.5 330.5 L210.5 345.5 L210.5 360.5 L210.5 375.5 L210.5 390.5 L210.5 405.5 L210.5 420.5 L210.5 435.5 L210.5 450.5 L210.5 465.5 L210.5 480.5 L210.5 495.5 L210.5 510.5 L210.5 525.5 L210.5 540.5 L210.5 555.5 L210.5 570.5 L210.5 585.5 L210.5 600.5 L210.5 615.5 L210.5 630.5 L210.5 645.5 L210.5 660.5 L210.5 675.5 L210.5 690.5 L210.5 705.5 L210.5 720.5 L210.5 735.5 L210.5 750.5 L210.5 765.5 L210.5 780.5 L210.5 795.5 L210.5 810.5 L210.5 825.5 L210.5 840.5" keyPoints="0;1;1" keyTimes="0;0.913043;1" calcMode="linear" dur="20700ms" repeatCount="indefinite"/>
   </g>
 </svg>
