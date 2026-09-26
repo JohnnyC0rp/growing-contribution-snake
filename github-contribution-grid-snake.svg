@@ -505,8 +505,8 @@
       <title>2026-09-25: 16 contributions</title>
       <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.694143;1" calcMode="discrete" dur="20745ms" repeatCount="indefinite"/>
     </rect>
-    <rect class="cell level-1" x="835" y="100" width="11" height="11" rx="2">
-      <title>2026-09-26: 2 contributions</title>
+    <rect class="cell level-2" x="835" y="100" width="11" height="11" rx="2">
+      <title>2026-09-26: 8 contributions</title>
       <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.804772;1" calcMode="discrete" dur="20745ms" repeatCount="indefinite"/>
     </rect>
   </g>
